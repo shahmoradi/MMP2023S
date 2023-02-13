@@ -3,7 +3,7 @@
 		{
 		  "title"      : "Quiz 1: Version control system",
 		  "category"   : "",
-		  "url"        : "/DSP2023S/quiz/1-version-control-system",
+		  "url"        : "/MMP2023S/quiz/1-version-control-system",
 		  "date"       : "2023-02-13 00:00:00 -0600",
 		  "shortdate"  : "February 13, 2023"
 		} ,
@@ -11,7 +11,7 @@
 		{
 		  "title"      : "Lecture 2: A brief history of computer programming",
 		  "category"   : "",
-		  "url"        : "/DSP2023S/lecture/2-history",
+		  "url"        : "/MMP2023S/lecture/2-history",
 		  "date"       : "2023-02-01 00:00:00 -0600",
 		  "shortdate"  : "February 01, 2023"
 		} ,
@@ -19,7 +19,7 @@
 		{
 		  "title"      : "Lecture 1: Version Control Systems, Git, and GitHub",
 		  "category"   : "",
-		  "url"        : "/DSP2023S/lecture/1-vcs",
+		  "url"        : "/MMP2023S/lecture/1-vcs",
 		  "date"       : "2023-01-20 00:00:00 -0600",
 		  "shortdate"  : "January 20, 2023"
 		} ,
@@ -27,7 +27,7 @@
 		{
 		  "title"      : "Homework 1: Version Control Using Git and Github",
 		  "category"   : "",
-		  "url"        : "/DSP2023S/homework/1-vcs",
+		  "url"        : "/MMP2023S/homework/1-vcs",
 		  "date"       : "2023-01-20 00:00:00 -0600",
 		  "shortdate"  : "January 20, 2023"
 		} 

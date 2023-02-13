@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>/DSP2023S</loc>
+        <loc>/MMP2023S</loc>
     </url>
     
     
     <url>
-        <loc>/DSP2023S/404</loc>
+        <loc>/MMP2023S/404</loc>
     </url>
     
     <url>
-        <loc>/DSP2023S/about/index.html</loc>
+        <loc>/MMP2023S/about/index.html</loc>
     </url>
     
     <url>
-        <loc>/DSP2023S/categories/index.html</loc>
+        <loc>/MMP2023S/categories/index.html</loc>
     </url>
     
     <url>
-        <loc>/DSP2023S/feed.xml</loc>
+        <loc>/MMP2023S/feed.xml</loc>
     </url>
     
     <url>
-        <loc>/DSP2023S/highlights/</loc>
+        <loc>/MMP2023S/highlights/</loc>
     </url>
     
     <url>
-        <loc>/DSP2023S/</loc>
+        <loc>/MMP2023S/</loc>
     </url>
     
     <url>
-        <loc>/DSP2023S/links.jsonp</loc>
+        <loc>/MMP2023S/links.jsonp</loc>
     </url>
     
     <url>
-        <loc>/DSP2023S/search.json</loc>
+        <loc>/MMP2023S/search.json</loc>
     </url>
     
     <url>
-        <loc>/DSP2023S/sitemap.xml</loc>
+        <loc>/MMP2023S/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>/DSP2023S/tags/index.html</loc>
+        <loc>/MMP2023S/tags/index.html</loc>
     </url>
     
 
     
     <url>
-        <loc>/DSP2023S/quiz/1-version-control-system</loc>
+        <loc>/MMP2023S/quiz/1-version-control-system</loc>
     </url>
     
     <url>
-        <loc>/DSP2023S/lecture/2-history</loc>
+        <loc>/MMP2023S/lecture/2-history</loc>
     </url>
     
     <url>
-        <loc>/DSP2023S/lecture/1-vcs</loc>
+        <loc>/MMP2023S/lecture/1-vcs</loc>
     </url>
     
     <url>
-        <loc>/DSP2023S/homework/1-vcs</loc>
+        <loc>/MMP2023S/homework/1-vcs</loc>
     </url>
     
 </urlset>
