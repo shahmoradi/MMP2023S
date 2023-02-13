@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>COMPUTERS IN PHYSICS - SUMMER 2019 &vert; PHYS-5319 - MATHEMATICAL METHODS IN PHYSICS III - SPRING 2023 - MW 10:30-11:45 @ SH 315</title>
+<meta name="description" content="Methods of Applied Physics - Computers in Physics, Summer 2019.">
+<meta name="keywords" content="Computer, Programming, Fatemeh, Bagheri, University, Texas, Arlington, Physics">
+
+
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Computers in Physics - Summer 2019">
+<meta property="og:description" content="Methods of Applied Physics - Computers in Physics, Summer 2019.">
+<meta property="og:url" content="/DSP2023S/">
+<meta property="og:site_name" content="PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315">
+<meta property="og:image" content="/DSP2023S/images/">
+
+
+
+
+
+<link rel="canonical" href="/DSP2023S/">
+<!-- <link href="/DSP2023S/feed.xml" type="application/atom+xml" rel="alternate" title="PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315 Feed"> -->
+
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,600,300,800,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/DSP2023S/assets/css/vendor/font-awesome.min.css">
+<link rel="stylesheet" href="/DSP2023S/assets/css/vendor/normalize.css">
+<link rel="stylesheet" href="/DSP2023S/assets/css/vendor/nprogress.css">
+<link rel="stylesheet" href="/DSP2023S/assets/css/vendor/foundation.min.css">
+<link rel="stylesheet" href="/DSP2023S/assets/css/style.css">
+<link rel="stylesheet" href="/DSP2023S/assets/css/post.css">
+
+<!--Mathjax LaTeX engine-->
+
+<style TYPE="text/css">
+code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
+</style>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // removed 'code' entry
+    }
+});
+MathJax.Hub.Queue(function() {
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+<!-- Icons -->
+<link rel="shortcut icon" href="/DSP2023S/favicon.ico">
+<!--
+<link rel="shortcut icon" href="/DSP2023S/favicon.png">
+-->
+
+
+<!-- prism
+<link href="/DSP2023S/assets/css/prismTwilight.css" rel="stylesheet" />
+<link href="/DSP2023S/assets/css/prismDefault.css" rel="stylesheet" />
+<link href="/DSP2023S/assets/css/prismCoy.css" rel="stylesheet" />
+-->
+<link href="/DSP2023S/assets/css/prismOkaidia.css" rel="stylesheet" />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+</head>
+<body class="home-template" itemscope itemtype="https://schema.org/WebPage">
+<header class="notepad-site-head">
+    <div class="notepad-site-head-menu">
+        <a class="notepad-blog-logo" href="https://shahmoradi.github.io/" target="_blank"><img src="/DSP2023S/images/logo.png" alt="faba.one" /></a>
+        
+        <div class="notepad-blog-menu">      
+            <div class="notepad-mobile-menu show-for-small">
+                <a href="#"><i class="fa fa-bars"></i></a>
+            </div>
+            <ul class="notepad-menu">
+                <li class="notepad-mobile-close-btn show-for-small text-right">
+                    <a href="#"><i class="fa fa-times"></i></a>
+                </li>
+                
+                    <li>
+                    <a href="/DSP2023S/">Home</a>
+                     </li>
+                
+                    <li>
+                    <a href="/DSP2023S/highlights">Highlights</a>
+                     </li>
+                
+                    <li>
+                    <a href="/DSP2023S/categories">Categories</a>
+                     </li>
+                
+                    <li>
+                    <a href="/DSP2023S/about">About</a>
+                     </li>
+                            
+                <li><a href="/DSP2023S/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
+            </ul>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="notepad-site-head-content">
+            <!--
+            -->
+            <!--
+        <div class="notepad-site-head-bg"></div>
+            -->
+        <h1 class="notepad-blog-title" >
+            <a href="https://www.uta.edu/science/" target="_blank"><img src="/DSP2023S/images/uta.png" width="200px" style="margin-top:-4rem;" ></a><br><br>
+            <span class="notepad-site-head-title-bg">
+                PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315
+            </span>
+        </h1>
+        <h2 class="notepad-blog-description" style="margin-bottom:-5rem;" >
+          Mathematical Methods in Physics III
+        </h2>
+            <!--
+            -->
+    </div>
+</header>
+
+
+<main class="notepad-content" role="main">
+
+            
+	
+    <article class="notepad-index-post post row">
+        <div class="small-12 medium-3 large-2 columns datetime">
+            <span class="notepad-post-meta">
+                <time datetime="2023-02-13T00:00:00-06:00">
+                    <span class="day">
+                        13
+                    </span>
+                    <span class="month-year">
+                        February 2023
+                    </span>
+                </time>
+            </span>
+        </div>
+        <div class="small-12 medium-9 large-10 columns">
+            <header class="notepad-post-header">
+                <h3 class="notepad-post-title">
+                    <a href="/DSP2023S/quiz/1-version-control-system">
+                        Quiz 1: Version control system
+                    </a>
+                </h3>
+            </header>
+            <section class="notepad-post-excerpt">
+                <p>This quiz aims at testing your basic knowledge of Version Control System. Don’t forget to push your answers to your remote repository by the end of quiz time. Push all your answers to quiz/1/ folder in your Github project. Name...</p>
+            </section>
+            
+                <div class="notepad-index-post-tags">
+                <a href="/DSP2023S/categories/index.html#quiz" title="Other posts from the Quiz category">Quiz</a>
+                    
+                </div>
+            
+        </div>
+    </article>
+	
+    <article class="notepad-index-post post row">
+        <div class="small-12 medium-3 large-2 columns datetime">
+            <span class="notepad-post-meta">
+                <time datetime="2023-02-01T00:00:00-06:00">
+                    <span class="day">
+                        01
+                    </span>
+                    <span class="month-year">
+                        February 2023
+                    </span>
+                </time>
+            </span>
+        </div>
+        <div class="small-12 medium-9 large-10 columns">
+            <header class="notepad-post-header">
+                <h3 class="notepad-post-title">
+                    <a href="/DSP2023S/lecture/2-history">
+                        Lecture 2: A brief history of computer programming
+                    </a>
+                </h3>
+            </header>
+            <section class="notepad-post-excerpt">
+                <p>This lecture aims at providing an overview of computer programming history and, in particular, Python, as we well as popular implementations of Python interpreter and editors and how to install them. The material for this lecture can be found at:...</p>
+            </section>
+            
+                <div class="notepad-index-post-tags">
+                <a href="/DSP2023S/categories/index.html#lecture" title="Other posts from the Lecture category">Lecture</a>
+                    
+                </div>
+            
+        </div>
+    </article>
+	
+    <article class="notepad-index-post post row">
+        <div class="small-12 medium-3 large-2 columns datetime">
+            <span class="notepad-post-meta">
+                <time datetime="2023-01-20T00:00:00-06:00">
+                    <span class="day">
+                        20
+                    </span>
+                    <span class="month-year">
+                        January 2023
+                    </span>
+                </time>
+            </span>
+        </div>
+        <div class="small-12 medium-9 large-10 columns">
+            <header class="notepad-post-header">
+                <h3 class="notepad-post-title">
+                    <a href="/DSP2023S/lecture/1-vcs">
+                        Lecture 1: Version Control Systems, Git, and GitHub
+                    </a>
+                </h3>
+            </header>
+            <section class="notepad-post-excerpt">
+                <p>This lecture aims at providing an overview of the Version Control Systems (VCS) and how to use them for our needs in this course. Version Control Systems, Git, and GitHub To lean about VCS, Git, and GitHub, we will follow...</p>
+            </section>
+            
+                <div class="notepad-index-post-tags">
+                <a href="/DSP2023S/categories/index.html#lecture" title="Other posts from the Lecture category">Lecture</a>
+                    
+                </div>
+            
+        </div>
+    </article>
+	
+    <article class="notepad-index-post post row">
+        <div class="small-12 medium-3 large-2 columns datetime">
+            <span class="notepad-post-meta">
+                <time datetime="2023-01-20T00:00:00-06:00">
+                    <span class="day">
+                        20
+                    </span>
+                    <span class="month-year">
+                        January 2023
+                    </span>
+                </time>
+            </span>
+        </div>
+        <div class="small-12 medium-9 large-10 columns">
+            <header class="notepad-post-header">
+                <h3 class="notepad-post-title">
+                    <a href="/DSP2023S/homework/1-vcs">
+                        Homework 1: Version Control Using Git and Github
+                    </a>
+                </h3>
+            </header>
+            <section class="notepad-post-excerpt">
+                <p>♣ Due Date: Monday Feb 13, 2023 1:00 PM. This homework aims at giving you some experience on how to create Git branches, develop your project on multiple branches, merge them, resolve potential conflicts between different branches upon merging, and...</p>
+            </section>
+            
+                <div class="notepad-index-post-tags">
+                <a href="/DSP2023S/categories/index.html#homework" title="Other posts from the Homework category">Homework</a>
+                    
+                </div>
+            
+        </div>
+    </article>
+	
+    <nav class="pagination" role="navigation">
+    
+    <span class="newer-posts faded"><i class="fa fa-chevron-left"></i> Newer</span>
+    
+
+    
+    <span class="page-number">Page 1 of 1</span>
+    	
+    	<span class="older-posts faded">Older <i class="fa fa-chevron-right"></i></span>
+    	
+	</nav>
+
+</main>
+    <footer class="notepad-site-footer">
+    <div class="copyright">
+         <!-- <section>Last updated 2023 / 02 / 13</section></br> -->
+         <section>Last updated Monday, 13 Feb 2023 at 02:56 AM CST</section></br>
+         <section>All content exclusively maintained by <a href=https://www.cdslab.org target="_blank">Amir Shahmoradi</a> <!-- &copy;--> </section></br>
+         <section><a class="icon-ghost" href="https://www.uta.edu/physics/" target="_blank">Department of Physics | Data Science Program</a></section></br>
+         <section><a class="icon-ghost" href="https://www.uta.edu/" target="_blank">The University of Texas at Arlington</a></section></br>
+         <section>SEIR 365 | Arlington TX 76010</section></br>
+    </div>
+    <div class="social-icons">
+
+        
+
+        
+        <a href="https://github.com/shahmoradi" target="_blank">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-github fa-stack-1x"></i>
+            </span>
+        </a>
+        
+
+        
+
+        
+
+        
+
+        
+        
+<div style="color: #000000; float: none; width: 100%; padding-top: 1rem;">
+    <span style="font-size:0.8em">visitor count: 
+        <script type="text/javascript">
+            var sc_project=12067697; 
+            var sc_invisible=0; 
+            var sc_security="879eb905"; 
+            var sc_text=3; 
+            var scJsHost = "https://";
+            document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + 
+            "statcounter.com/counter/counter.js'></"+"script>");
+        </script>
+    </span>
+</div>
+
+
+    </div>
+    <div class="cf"></div>
+</footer>
+
+<!--dynamic page header-->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/DSP2023S/assets/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
+  <script src="/DSP2023S/assets/js/vendor/modernizr.js"></script>
+  <script src="/DSP2023S/assets/js/foundation.min.js"></script>
+  
+  <script src="/DSP2023S/assets/js/notepad.js"></script>
+  <script src="/DSP2023S/assets/js/scripts.min.js"></script>
+  <script src="/DSP2023S/assets/js/vendor/nprogress.js"></script>
+  
+  <script>
+    $(document).foundation();
+  </script>
+  <script type='text/javascript'>console.log("N/A");</script>
+  <script type='text/javascript'>console.log("https://www.faba.one/");</script>
+
+<!--header anchor links-->
+<script src="/DSP2023S/assets/js/autoAnchorLink.js"></script>
+
+<!-- <script src="/DSP2023S/assets/js/prismOkaidia.js"></script>
+<script src="/DSP2023S/assets/js/prismTwilight.js"></script>
+<script src="/DSP2023S/assets/js/prismDefault.js"></script>
+ -->
+<script src="/DSP2023S/assets/js/prismCoy.js"></script>  
+</body>
+</html>

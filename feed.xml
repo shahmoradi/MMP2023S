@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+
+
+
+<title type="text">PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http:/DSP2023S/feed.xml" />
+<link rel="alternate" type="text/html" href="http:/DSP2023S/" />
+<updated>2023-02-13T02:56:44-06:00</updated>
+<id>http:/DSP2023S/</id>
+<author>
+  <name>Amir Shahmoradi</name>
+  <uri>http:/DSP2023S/</uri>
+  <email>bagheri.fateme@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Quiz 1: Version control system]]></title>
+  <link rel="alternate" type="text/html" href="http:/DSP2023S/quiz/1-version-control-system"/>
+  <id>http:/DSP2023S/quiz/1-version-control-system</id>
+  <published>2023-02-13T00:00:00-06:00</published>
+  <updated>2023-02-13T00:00:00-06:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/DSP2023S</uri>
+    <email>bagheri.fateme@gmail.com</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;!--
+This is the solution to [Quiz 1: Problems - Version control system](1-problems-version-control-system.html){:target=&quot;_blank&quot;}.  
+
+The following figure illustrates the grade distribution for this quiz.  
+&lt;figure&gt;
+    &lt;img src=&quot;http:/DSP2023S/quiz/gradeDist/gradeHistQuiz1.png&quot; width=&quot;700&quot;&gt;
+    &lt;figcaption style=&quot;text-align:center&quot;&gt;
+        Maximum possible points is 1.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+
+&lt;p&gt;This quiz aims at testing your basic knowledge of Version Control System. Don’t forget to push your answers to your remote repository by the end of quiz time. Push all your answers to &lt;strong&gt;quiz/1/&lt;/strong&gt; folder in your Github project.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name the three generations of VCS. Briefly describe how each paradigm works and a problem that it resolves in the previous generation.
+&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Which VCS generation does &lt;code&gt;git&lt;/code&gt; software belong to?&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Which of the following Git commands can add all the &lt;strong&gt;new&lt;/strong&gt; and &lt;strong&gt;modified-existing&lt;/strong&gt; files to the staging area? choose all that apply.&lt;br /&gt;
+&lt;br /&gt;
+(A) &lt;code&gt;git add -A&lt;/code&gt;&lt;br /&gt;
+(B) &lt;code&gt;git add --A&lt;/code&gt;&lt;br /&gt;
+(C) &lt;code&gt;git add -all&lt;/code&gt;&lt;br /&gt;
+(D) &lt;code&gt;git add --all&lt;/code&gt;&lt;br /&gt;
+(E) &lt;code&gt;git add -u&lt;/code&gt;&lt;br /&gt;
+(F) &lt;code&gt;git add .&lt;/code&gt;&lt;br /&gt;
+(G) &lt;code&gt;git add .; git add -u&lt;/code&gt;&lt;br /&gt;
+(H) &lt;code&gt;git add .; git add --u&lt;/code&gt;&lt;br /&gt;
+(I) &lt;code&gt;git add -u; git add .&lt;/code&gt;&lt;br /&gt;
+(J) &lt;code&gt;git add --u; git add .&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Which of the following Git commands &lt;strong&gt;both&lt;/strong&gt; stages and commits &lt;strong&gt;only modified and deleted files&lt;/strong&gt; but &lt;strong&gt;NOT&lt;/strong&gt; the &lt;em&gt;new files&lt;/em&gt; added to the repository since the last commit. Choose all that apply.&lt;br /&gt;
+&lt;br /&gt;
+(A) &lt;code&gt;git commit&lt;/code&gt;&lt;br /&gt;
+(B) &lt;code&gt;git commit -a&lt;/code&gt;&lt;br /&gt;
+(C) &lt;code&gt;git commit -am&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Write down the Git command that lists all Git commands for you.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Write down the Git command that lists all branches for you.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Write down the Git command that creates and checks out a new branch named &lt;code&gt;dev&lt;/code&gt; from the current branch.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Perform the following tasks on a Git command-line on your computer and copy and paste the output to your quiz response file.
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;Initialize an empty project &lt;strong&gt;locally&lt;/strong&gt; on your system in a temporary folder. Copy the command and the Git output here.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Add a &lt;code&gt;README.md&lt;/code&gt; file to this project and add your name to it, save it and close it, then stage and commit it.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Now create a new branch &lt;code&gt;dev&lt;/code&gt; from the current branch and switch to it.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Modify the &lt;code&gt;README.md&lt;/code&gt; file by removing your name. Then, stage and commit the changes to the new branch.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Now merge this &lt;code&gt;dev&lt;/code&gt; branch with your &lt;code&gt;main&lt;/code&gt; branch and delete the new branch that you just created.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;List all existing branches in your project.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Write down the Git command that lists all commits made to the project.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/DSP2023S/quiz/1-version-control-system&quot;&gt;Quiz 1: Version control system&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/DSP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on February 13, 2023.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Lecture 2: A brief history of computer programming]]></title>
+  <link rel="alternate" type="text/html" href="http:/DSP2023S/lecture/2-history"/>
+  <id>http:/DSP2023S/lecture/2-history</id>
+  <published>2023-02-01T00:00:00-06:00</published>
+  <updated>0000-00-00T00:00:00-00:00</updated>
+  
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/DSP2023S</uri>
+    <email>bagheri.fateme@gmail.com</email>
+  </author>
+  
+  <content type="html">
+  
+    
+&lt;p&gt;This lecture aims at providing an overview of computer programming history and, in particular, Python, as we well as popular implementations of Python interpreter and editors and how to install them.&lt;/p&gt;
+
+&lt;div class=&quot;post_toc&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;The material for this lecture can be found at:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/python/notes/preliminary-foundations/programming-history/programming-history.html&quot; target=&quot;_blank&quot;&gt;programming history&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/python/notes/preliminary-foundations/computer-program-structure/computer-program-structure.html&quot; target=&quot;_blank&quot;&gt;Computer program structure&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/python/notes/preliminary-foundations/python-for-beginners/python-for-beginners.html&quot; target=&quot;_blank&quot;&gt;Python for beginners&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/DSP2023S/lecture/2-history&quot;&gt;Lecture 2: A brief history of computer programming&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/DSP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on February 01, 2023.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Lecture 1: Version Control Systems, Git, and GitHub]]></title>
+  <link rel="alternate" type="text/html" href="http:/DSP2023S/lecture/1-vcs"/>
+  <id>http:/DSP2023S/lecture/1-vcs</id>
+  <published>2023-01-20T00:00:00-06:00</published>
+  <updated>0000-00-00T00:00:00-00:00</updated>
+  
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/DSP2023S</uri>
+    <email>bagheri.fateme@gmail.com</email>
+  </author>
+  
+  <content type="html">
+  
+    
+&lt;p&gt;This lecture aims at providing an overview of the Version Control Systems (VCS) and how to use them for our needs in this course.&lt;/p&gt;
+
+&lt;div class=&quot;post_toc&quot;&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;version-control-systems-git-and-github&quot;&gt;Version Control Systems, Git, and GitHub&lt;/h3&gt;
+
+&lt;p&gt;To lean about VCS, Git, and GitHub, we will follow the lecture notes available here,&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/python/notes/preliminary-foundations/version-control-system/version-control-system.html&quot; target=&quot;_blank&quot;&gt;Version Control System (VCS)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vcs-git-github-setup/vcs-git-github-setup&quot; target=&quot;_blank&quot;&gt;Setting Up Your Git Software and GitHub Account&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/DSP2023S/lecture/1-vcs&quot;&gt;Lecture 1: Version Control Systems, Git, and GitHub&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/DSP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on January 20, 2023.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Homework 1: Version Control Using Git and Github]]></title>
+  <link rel="alternate" type="text/html" href="http:/DSP2023S/homework/1-vcs"/>
+  <id>http:/DSP2023S/homework/1-vcs</id>
+  <published>2023-01-20T00:00:00-06:00</published>
+  <updated>2023-01-20T00:00:00-06:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/DSP2023S</uri>
+    <email>bagheri.fateme@gmail.com</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;p&gt;♣ &lt;strong&gt;Due Date: Monday Feb 13, 2023 1:00 PM&lt;/strong&gt;. This homework aims at giving you some experience on how to create Git branches, develop your project on multiple branches, merge them, resolve potential conflicts between different branches upon merging, and finally how to delete them. It also gives you some experience with using other commonly-used Git commands.&lt;/p&gt;
+
+&lt;p&gt;Use the Markdown language to design a Github-interpretable README file for each of folders in your project for this course, and a Github web-page for your project. If you need help with Markdown, refer to the HW question below and our lecture notes for cheat-sheets.&lt;/p&gt;
+
+&lt;p&gt;Write your code sections of your answer in Markdown syntax.
+For example,&lt;br /&gt;
+&lt;code&gt;
+    ```bash  &lt;br /&gt;
+    $ git branch -d test  &lt;br /&gt;
+    error: Cannot delete branch &apos;test&apos; checked out at &apos;C:/Users/Fatemeh/git/foo&apos;  &lt;br /&gt;
+    ```
+&lt;/code&gt;
+&lt;br /&gt;
+will display the following text highlighted as &lt;em&gt;bash&lt;/em&gt; code, in your &lt;em&gt;readme.md&lt;/em&gt; file (albeit, with different style and color).&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;$ git branch -d test
+error: Cannot delete branch &apos;test&apos; checked out at &apos;C:/Users/Fatemeh/git/foo&apos;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vcs-using-git-github/vcs-using-git-github&quot; target=&quot;_blank&quot;&gt;Version-control using Git and GitHub&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/DSP2023S/homework/1-vcs&quot;&gt;Homework 1: Version Control Using Git and Github&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/DSP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on January 20, 2023.&lt;/p&gt;</content>
+</entry>
+
+</feed>

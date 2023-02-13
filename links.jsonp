@@ -1,0 +1,24 @@
+
+callback([
+
+  {
+    "text": "Quiz 1: Version control system",
+    "href": "/DSP2023S/quiz/1-version-control-system"
+  } ,
+
+  {
+    "text": "Lecture 2: A brief history of computer programming",
+    "href": "/DSP2023S/lecture/2-history"
+  } ,
+
+  {
+    "text": "Lecture 1: Version Control Systems, Git, and GitHub",
+    "href": "/DSP2023S/lecture/1-vcs"
+  } ,
+
+  {
+    "text": "Homework 1: Version Control Using Git and Github",
+    "href": "/DSP2023S/homework/1-vcs"
+  } 
+
+])
