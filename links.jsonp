@@ -17,6 +17,11 @@ callback([
   } ,
 
   {
+    "text": "Homework 2: Programming Basics",
+    "href": "/MMP2023S/homework/2-programming-basics"
+  } ,
+
+  {
     "text": "Homework 1: Version Control Using Git and Github",
     "href": "/MMP2023S/homework/1-vcs"
   } 

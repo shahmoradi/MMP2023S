@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Homework 2: Programming Basics",
+		  "category"   : "",
+		  "url"        : "/MMP2023S/homework/2-programming-basics",
+		  "date"       : "2023-02-26 00:00:00 -0600",
+		  "shortdate"  : "February 26, 2023"
+		} ,
+	
+		{
 		  "title"      : "Quiz 1: Version control system",
 		  "category"   : "",
 		  "url"        : "/MMP2023S/quiz/1-version-control-system",

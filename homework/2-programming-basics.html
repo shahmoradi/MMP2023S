@@ -11,7 +11,7 @@
 -->
 
 <meta charset="utf-8">
-<title>QUIZ 1: VERSION CONTROL SYSTEM &vert; PHYS-5319 - MATHEMATICAL METHODS IN PHYSICS III - SPRING 2023 - MW 10:30-11:45 @ SH 315</title>
+<title>HOMEWORK 2: PROGRAMMING BASICS &vert; PHYS-5319 - MATHEMATICAL METHODS IN PHYSICS III - SPRING 2023 - MW 10:30-11:45 @ SH 315</title>
 <meta name="description" content="Mathematical Methods in Physics III">
 <meta name="keywords" content="">
 
@@ -20,9 +20,9 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Quiz 1: Version control system">
+<meta property="og:title" content="Homework 2: Programming Basics">
 <meta property="og:description" content="Mathematical Methods in Physics III">
-<meta property="og:url" content="/MMP2023S/quiz/1-version-control-system">
+<meta property="og:url" content="/MMP2023S/homework/2-programming-basics">
 <meta property="og:site_name" content="PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315">
 <meta property="og:image" content="/MMP2023S/images/">
 
@@ -30,7 +30,7 @@
 
 
 
-<link rel="canonical" href="/MMP2023S/quiz/1-version-control-system">
+<link rel="canonical" href="/MMP2023S/homework/2-programming-basics">
 <!-- <link href="/MMP2023S/feed.xml" type="application/atom+xml" rel="alternate" title="PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315 Feed"> -->
 
 
@@ -130,8 +130,8 @@ MathJax.Hub.Queue(function() {
                 <div class="notepad-post-title-simple row">
                     <div class="small-12 columns">
                         <div class="notepad-post-meta-simple">
-                            <h2>Quiz 1: Version control system</h2>
-                            <p>by <strong>Amir Shahmoradi</strong> &#8212;  <strong><time datetime="2023-02-13T00:00:00-06:00">13 Feb 2023</time></strong></p>
+                            <h2>Homework 2: Programming Basics</h2>
+                            <p>by <strong>Amir Shahmoradi</strong> &#8212;  <strong><time datetime="2023-02-26T00:00:00-06:00">26 Feb 2023</time></strong></p>
                         </div>
                     </div>
                 </div>
@@ -141,99 +141,42 @@ MathJax.Hub.Queue(function() {
             <article class="notepad-post-content post tag-simple">
         
             <div style="text-align:justify;">
-                <!--
-This is the solution to [Quiz 1: Problems - Version control system](1-problems-version-control-system.html){:target="_blank"}.  
+                <p>♣ <strong>Due Date: Monday March 20, 2023 10:45 AM</strong>. This homework aims at giving you some experience with the syntax of Python and programming via Python.</p>
 
-The following figure illustrates the grade distribution for this quiz.  
-<figure>
-    <img src="/MMP2023S/quiz/gradeDist/gradeHistQuiz1.png" width="700">
-    <figcaption style="text-align:center">
-        Maximum possible points is 1.
-    </figcaption>
-</figure>
--->
-
-<p>This quiz aims at testing your basic knowledge of Version Control System. Don’t forget to push your answers to your remote repository by the end of quiz time. Push all your answers to <strong>quiz/1/</strong> folder in your Github project.</p>
-
-<hr />
-<hr />
-
-<p><br /></p>
 <ol>
-  <li>
-    <p>Name the three generations of VCS. Briefly describe how each paradigm works and a problem that it resolves in the previous generation.
-<br /></p>
-  </li>
-  <li>
-    <p>Which VCS generation does <code>git</code> software belong to?<br />
-<br /></p>
-  </li>
-  <li>
-    <p>Which of the following Git commands can add all the <strong>new</strong> and <strong>modified-existing</strong> files to the staging area? choose all that apply.<br />
-<br />
-(A) <code>git add -A</code><br />
-(B) <code>git add --A</code><br />
-(C) <code>git add -all</code><br />
-(D) <code>git add --all</code><br />
-(E) <code>git add -u</code><br />
-(F) <code>git add .</code><br />
-(G) <code>git add .; git add -u</code><br />
-(H) <code>git add .; git add --u</code><br />
-(I) <code>git add -u; git add .</code><br />
-(J) <code>git add --u; git add .</code></p>
-  </li>
-  <li>
-    <p>Which of the following Git commands <strong>both</strong> stages and commits <strong>only modified and deleted files</strong> but <strong>NOT</strong> the <em>new files</em> added to the repository since the last commit. Choose all that apply.<br />
-<br />
-(A) <code>git commit</code><br />
-(B) <code>git commit -a</code><br />
-(C) <code>git commit -am</code></p>
-  </li>
-  <li>
-    <p>Write down the Git command that lists all Git commands for you.</p>
-  </li>
-  <li>
-    <p>Write down the Git command that lists all branches for you.</p>
-  </li>
-  <li>
-    <p>Write down the Git command that creates and checks out a new branch named <code>dev</code> from the current branch.</p>
-  </li>
-  <li>Perform the following tasks on a Git command-line on your computer and copy and paste the output to your quiz response file.
-    <ol>
-      <li>
-        <p>Initialize an empty project <strong>locally</strong> on your system in a temporary folder. Copy the command and the Git output here.</p>
-      </li>
-      <li>
-        <p>Add a <code>README.md</code> file to this project and add your name to it, save it and close it, then stage and commit it.</p>
-      </li>
-      <li>
-        <p>Now create a new branch <code>dev</code> from the current branch and switch to it.</p>
-      </li>
-      <li>
-        <p>Modify the <code>README.md</code> file by removing your name. Then, stage and commit the changes to the new branch.</p>
-      </li>
-      <li>
-        <p>Now merge this <code>dev</code> branch with your <code>main</code> branch and delete the new branch that you just created.</p>
-      </li>
-      <li>
-        <p>List all existing branches in your project.</p>
-      </li>
-    </ol>
-  </li>
-  <li>Write down the Git command that lists all commits made to the project.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/digital-storage-real-number/digital-storage-real-number" target="_blank">IEEE-storage convention for real numbers</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/integer-overflow/integer-overflow" target="_blank">Integer overflow</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/python-variable-aliasing-copying/python-variable-aliasing-copying" target="_blank">Python aliasing vs. copying variables</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/python-call-script-from-bash/python-call-script-from-bash" target="_blank">Python script call from the Bash command line</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/modifying-loop-index-value/modifying-loop-index-value" target="_blank">Python Modifying the index of a for-loop</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/precision-error-paradox/precision-error-paradox" target="_blank">Impact of machine precision on numerical computation</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/roundoff-error-paradox/roundoff-error-paradox" target="_blank">Impact of round-off errors on numerical computations</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/string-concatenation-using-for-loop/string-concatenation-using-for-loop" target="_blank">String concatenation using for-loop</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/fibonacci-sequence-via-for-loop/fibonacci-sequence-via-for-loop" target="_blank">Computing the Fibonacci sequence via for-loop</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/largest-prime-number-smaller-than-input/largest-prime-number-smaller-than-input" target="_blank">Getting the largest prime number smaller than the input value</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/fibonacci-sequence-via-recursive-function-calls/fibonacci-sequence-via-recursive-function-calls" target="_blank">Computing the Fibonacci sequence via recursive function calls</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/finding-maximum-location-via-recursive-function/finding-maximum-location-via-recursive-function" target="_blank">Finding the position of the maximum value of an array via recursive function calls</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/visualization-coloring/visualization-coloring" target="_blank">Best visualization coloring</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/python-packaging/python-packaging" target="_blank">Modules and packaging</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/visualization-avg-precipitation-choropleth/visualization-avg-precipitation-choropleth" target="_blank">Visualizing the average precipitation among the US states</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/formatted-input-to-csv-output/formatted-input-to-csv-output" target="_blank">Data transfer: Converting formatted input to Comma-Separated-Values (CSV) output</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/parsing-data-from-web/parsing-data-from-web" target="_blank">Parsing data from the World Wide Web</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/reading-data-from-web/reading-data-from-web" target="_blank">Reading data from the World Wide Web</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/random-walk-central-limit-theorem/random-walk-central-limit-theorem" target="_blank">Understanding the Central Limit Theorem via random walk</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/monte-carlo-approximation-of-heart-area/monte-carlo-approximation-of-heart-area" target="_blank">Monte Carlo approximation of the area of heart</a>.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/simulating-monty-hall-game/simulating-monty-hall-game" target="_blank">Simulating the Monty Hall game</a>.</li>
 </ol>
-
 
             </div>
         </article>
         <div class="cf"></div>
 <div class="row text-center">
     <section class="notepad-post-share">
-        <a class="twitter-icon" href="https://twitter.com/intent/tweet?text=&quot;Quiz 1: Version control system&quot;%20/MMP2023S/quiz/1-version-control-system%20via%20&#64;"
+        <a class="twitter-icon" href="https://twitter.com/intent/tweet?text=&quot;Homework 2: Programming Basics&quot;%20/MMP2023S/homework/2-programming-basics%20via%20&#64;"
             onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" title="Share on Twitter">
             <i class="fa fa-twitter"></i>
         </a>
-        <a class="facebook-icon" href="https://www.facebook.com/sharer/sharer.php?u=/MMP2023S/quiz/1-version-control-system"
+        <a class="facebook-icon" href="https://www.facebook.com/sharer/sharer.php?u=/MMP2023S/homework/2-programming-basics"
             onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" title="Share on Facebook">
             <i class="fa fa-facebook"></i>
         </a>

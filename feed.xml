@@ -7,13 +7,58 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/MMP2023S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/MMP2023S/" />
-<updated>2023-02-13T03:26:58-06:00</updated>
+<updated>2023-03-01T02:59:07-06:00</updated>
 <id>http:/MMP2023S/</id>
 <author>
   <name>Amir Shahmoradi</name>
   <uri>http:/MMP2023S/</uri>
   <email>bagheri.fateme@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Homework 2: Programming Basics]]></title>
+  <link rel="alternate" type="text/html" href="http:/MMP2023S/homework/2-programming-basics"/>
+  <id>http:/MMP2023S/homework/2-programming-basics</id>
+  <published>2023-02-26T00:00:00-06:00</published>
+  <updated>2023-02-26T00:00:00-06:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/MMP2023S</uri>
+    <email>bagheri.fateme@gmail.com</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;p&gt;♣ &lt;strong&gt;Due Date: Monday March 20, 2023 10:45 AM&lt;/strong&gt;. This homework aims at giving you some experience with the syntax of Python and programming via Python.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/digital-storage-real-number/digital-storage-real-number&quot; target=&quot;_blank&quot;&gt;IEEE-storage convention for real numbers&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/integer-overflow/integer-overflow&quot; target=&quot;_blank&quot;&gt;Integer overflow&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/python-variable-aliasing-copying/python-variable-aliasing-copying&quot; target=&quot;_blank&quot;&gt;Python aliasing vs. copying variables&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/python-call-script-from-bash/python-call-script-from-bash&quot; target=&quot;_blank&quot;&gt;Python script call from the Bash command line&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/modifying-loop-index-value/modifying-loop-index-value&quot; target=&quot;_blank&quot;&gt;Python Modifying the index of a for-loop&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/precision-error-paradox/precision-error-paradox&quot; target=&quot;_blank&quot;&gt;Impact of machine precision on numerical computation&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/roundoff-error-paradox/roundoff-error-paradox&quot; target=&quot;_blank&quot;&gt;Impact of round-off errors on numerical computations&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/string-concatenation-using-for-loop/string-concatenation-using-for-loop&quot; target=&quot;_blank&quot;&gt;String concatenation using for-loop&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/fibonacci-sequence-via-for-loop/fibonacci-sequence-via-for-loop&quot; target=&quot;_blank&quot;&gt;Computing the Fibonacci sequence via for-loop&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/largest-prime-number-smaller-than-input/largest-prime-number-smaller-than-input&quot; target=&quot;_blank&quot;&gt;Getting the largest prime number smaller than the input value&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/fibonacci-sequence-via-recursive-function-calls/fibonacci-sequence-via-recursive-function-calls&quot; target=&quot;_blank&quot;&gt;Computing the Fibonacci sequence via recursive function calls&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/finding-maximum-location-via-recursive-function/finding-maximum-location-via-recursive-function&quot; target=&quot;_blank&quot;&gt;Finding the position of the maximum value of an array via recursive function calls&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/visualization-coloring/visualization-coloring&quot; target=&quot;_blank&quot;&gt;Best visualization coloring&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/python-packaging/python-packaging&quot; target=&quot;_blank&quot;&gt;Modules and packaging&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/visualization-avg-precipitation-choropleth/visualization-avg-precipitation-choropleth&quot; target=&quot;_blank&quot;&gt;Visualizing the average precipitation among the US states&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/formatted-input-to-csv-output/formatted-input-to-csv-output&quot; target=&quot;_blank&quot;&gt;Data transfer: Converting formatted input to Comma-Separated-Values (CSV) output&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/parsing-data-from-web/parsing-data-from-web&quot; target=&quot;_blank&quot;&gt;Parsing data from the World Wide Web&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/reading-data-from-web/reading-data-from-web&quot; target=&quot;_blank&quot;&gt;Reading data from the World Wide Web&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/random-walk-central-limit-theorem/random-walk-central-limit-theorem&quot; target=&quot;_blank&quot;&gt;Understanding the Central Limit Theorem via random walk&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/monte-carlo-approximation-of-heart-area/monte-carlo-approximation-of-heart-area&quot; target=&quot;_blank&quot;&gt;Monte Carlo approximation of the area of heart&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/simulating-monty-hall-game/simulating-monty-hall-game&quot; target=&quot;_blank&quot;&gt;Simulating the Monty Hall game&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/homework/2-programming-basics&quot;&gt;Homework 2: Programming Basics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on February 26, 2023.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
