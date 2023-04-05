@@ -11,7 +11,7 @@
 -->
 
 <meta charset="utf-8">
-<title>QUIZ 1: VERSION CONTROL SYSTEM &vert; PHYS-5319 - MATHEMATICAL METHODS IN PHYSICS III - SPRING 2023 - MW 10:30-11:45 @ SH 315</title>
+<title>QUIZ 2: PROGRAMMING BASICS &vert; PHYS-5319 - MATHEMATICAL METHODS IN PHYSICS III - SPRING 2023 - MW 10:30-11:45 @ SH 315</title>
 <meta name="description" content="Mathematical Methods in Physics III">
 <meta name="keywords" content="">
 
@@ -20,9 +20,9 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Quiz 1: Version control system">
+<meta property="og:title" content="Quiz 2: Programming basics">
 <meta property="og:description" content="Mathematical Methods in Physics III">
-<meta property="og:url" content="/MMP2023S/quiz/1-version-control-system">
+<meta property="og:url" content="/MMP2023S/quiz/2-programming">
 <meta property="og:site_name" content="PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315">
 <meta property="og:image" content="/MMP2023S/images/">
 
@@ -30,7 +30,7 @@
 
 
 
-<link rel="canonical" href="/MMP2023S/quiz/1-version-control-system">
+<link rel="canonical" href="/MMP2023S/quiz/2-programming">
 <!-- <link href="/MMP2023S/feed.xml" type="application/atom+xml" rel="alternate" title="PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315 Feed"> -->
 
 
@@ -130,8 +130,8 @@ MathJax.Hub.Queue(function() {
                 <div class="notepad-post-title-simple row">
                     <div class="small-12 columns">
                         <div class="notepad-post-meta-simple">
-                            <h2>Quiz 1: Version control system</h2>
-                            <p>by <strong>Amir Shahmoradi</strong> &#8212;  <strong><time datetime="2023-02-13T00:00:00-06:00">13 Feb 2023</time></strong></p>
+                            <h2>Quiz 2: Programming basics</h2>
+                            <p>by <strong>Amir Shahmoradi</strong> &#8212;  <strong><time datetime="2021-04-05T00:00:00-05:00">05 Apr 2021</time></strong></p>
                         </div>
                     </div>
                 </div>
@@ -142,9 +142,9 @@ MathJax.Hub.Queue(function() {
         
             <div style="text-align:justify;">
                 <!--
-This is the solution to [Quiz 1: Problems - Version control system](1-problems-version-control-system.html){:target="_blank"}.  
+This is the solution to [Quiz 1: Problems - Version control system](1-problems-version-control-system.html){:target="_blank"}.
 
-The following figure illustrates the grade distribution for this quiz.  
+The following figure illustrates the grade distribution for this quiz.
 <figure>
     <img src="/MMP2023S/quiz/gradeDist/gradeHistQuiz1.png" width="700">
     <figcaption style="text-align:center">
@@ -153,7 +153,7 @@ The following figure illustrates the grade distribution for this quiz.
 </figure>
 -->
 
-<p>This quiz aims at testing your basic knowledge of Version Control System. Don’t forget to push your answers to your remote repository by the end of quiz time. Push all your answers to <strong>quiz/1/</strong> folder in your Github project.</p>
+<p>This quiz aims at testing your basic knowledge of programming. Don’t forget to push your answers to your remote repository by the end of quiz time. Push all your answers to <strong>quiz/2/</strong> folder in your Github project.</p>
 
 <hr />
 <hr />
@@ -161,66 +161,159 @@ The following figure illustrates the grade distribution for this quiz.
 <p><br /></p>
 <ol>
   <li>
-    <p>Name the three generations of VCS. Briefly describe how each paradigm works and a problem that it resolves in the previous generation.
-<br /></p>
+    <p>(A) What is the closest programming language to machine code (i.e., binary code)?</p>
+
+    <p>(B) Does it need interpretation in order to become machine-comprehensible?</p>
   </li>
   <li>
-    <p>Which VCS generation does <code>git</code> software belong to?<br />
-<br /></p>
+    <p>(A) Name the oldest high-level programming language.</p>
+
+    <p>(B) Approximately how many decades is it old? ($\pm15$ years is acceptable answer. the decade it was created is also an acceptable answer)</p>
   </li>
   <li>
-    <p>Which of the following Git commands can add all the <strong>new</strong> and <strong>modified-existing</strong> files to the staging area? choose all that apply.<br />
-<br />
-(A) <code>git add -A</code><br />
-(B) <code>git add --A</code><br />
-(C) <code>git add -all</code><br />
-(D) <code>git add --all</code><br />
-(E) <code>git add -u</code><br />
-(F) <code>git add .</code><br />
-(G) <code>git add .; git add -u</code><br />
-(H) <code>git add .; git add --u</code><br />
-(I) <code>git add -u; git add .</code><br />
-(J) <code>git add --u; git add .</code></p>
+    <p>In what decades C, C++, and MATLAB/Python were created, respectively?</p>
   </li>
   <li>
-    <p>Which of the following Git commands <strong>both</strong> stages and commits <strong>only modified and deleted files</strong> but <strong>NOT</strong> the <em>new files</em> added to the repository since the last commit. Choose all that apply.<br />
-<br />
-(A) <code>git commit</code><br />
-(B) <code>git commit -a</code><br />
-(C) <code>git commit -am</code></p>
+    <p>Name an ancestor programming language of C.</p>
   </li>
   <li>
-    <p>Write down the Git command that lists all Git commands for you.</p>
+    <p>Name a programming language ancestor of C++.</p>
+  </li>
+  <li>Consider the following C++ code.
+    <pre><code class="language-cpp">int getSquare(int num) {
+    return num * num;
+}
+
+int main(){
+    return getsquare(2);
+}
+</code></pre>
+    <p>What kind of programming error does this code contain?
+<strong>Hint</strong>: You can copy and paste this code to <a href="https://godbolt.org/">https://godbolt.org/</a> to see the compiler message (by choosing the C++ language from the drop-down menu).</p>
+  </li>
+  <li>Consider the following Python code.
+    <pre><code class="language-fortran">"""
+Return `True` if the input integer is even.
+"""
+def isEven(int): return int / 2 == float(int) / 2
+</code></pre>
+    <p>Does this code contain any kind of programming error?
+If you believe it contains an error, what kind of error is it?
+Otherwise explain how it yields the correct answer.</p>
+  </li>
+  <li>Consider the following Fortran code.
+    <pre><code class="language-fortran">real :: array(0 : 2)
+print *, array(3)
+end
+</code></pre>
+    <p>Does this code contain any kind of programming error? Why?
+<strong>Hint</strong>: You can copy and paste this code to <a href="https://godbolt.org/">https://godbolt.org/</a> to see the
+Fortran compiler behavior (by choosing the <code>x86-64 gfortran (trunk)</code> compiler from the drop-down menu).</p>
   </li>
   <li>
-    <p>Write down the Git command that lists all branches for you.</p>
+    <p>Suppose you write a program that has memory leak. What type of programming error are you dealing with?</p>
   </li>
   <li>
-    <p>Write down the Git command that creates and checks out a new branch named <code>dev</code> from the current branch.</p>
+    <p>What are the order-of-magnitudes of the largest <code>32</code>-bit and <code>64</code>-bit IEEE integers?</p>
   </li>
-  <li>Perform the following tasks on a Git command-line on your computer and copy and paste the output to your quiz response file.
-    <ol>
-      <li>
-        <p>Initialize an empty project <strong>locally</strong> on your system in a temporary folder. Copy the command and the Git output here.</p>
-      </li>
-      <li>
-        <p>Add a <code>README.md</code> file to this project and add your name to it, save it and close it, then stage and commit it.</p>
-      </li>
-      <li>
-        <p>Now create a new branch <code>dev</code> from the current branch and switch to it.</p>
-      </li>
-      <li>
-        <p>Modify the <code>README.md</code> file by removing your name. Then, stage and commit the changes to the new branch.</p>
-      </li>
-      <li>
-        <p>Now merge this <code>dev</code> branch with your <code>main</code> branch and delete the new branch that you just created.</p>
-      </li>
-      <li>
-        <p>List all existing branches in your project.</p>
-      </li>
-    </ol>
+  <li>
+    <p>What are the the smallest and the largest exponents in base <code>10</code> that are representable with <code>32</code>-bit and <code>64</code>-bit IEEE real/float values?</p>
   </li>
-  <li>Write down the Git command that lists all commits made to the project.</li>
+  <li>
+    <p>Suppose you invent a integer binary storage for computers composed of 5-bits.
+What would be the range of signed integer values in your custom representation?</p>
+  </li>
+  <li>
+    <p>Consider the IEEE 754 single-precision 32-bit float.
+How many floats can be represented with such a storage scheme?
+How many subnormal values do exist in this storage scheme?
+How many infinite values do exist in this storage scheme?
+How many NaN values do exist in this storage scheme?
+What bit pattern would correspond to an infinity?
+What bit pattern would correspond to a subnormal?
+What bit pattern would correspond to a NaN?</p>
+  </li>
+  <li>
+    <p>Why are chaotic phenomena hard to simulate by digital computers?</p>
+  </li>
+  <li>
+    <p>What is the difference between mutable and immutable objects in computer programming?</p>
+  </li>
+  <li>
+    <p>Write a recursive function in your favorite programming language that takes a vector of integers as input and outputs the minimum value.</p>
+  </li>
+  <li>
+    <p>Suppose you implement the matrix multiplication of a large square matrix of size <code>ndim</code> by <code>ndim</code>
+with a column vector of similar size <code>ndim</code> using the naive definition of matrix multiplication in both C and Fortran.
+Which version of your code would run faster? C or Fortran? Why?</p>
+  </li>
+  <li>
+    <p>Suppose you implement the matrix multiplication of a row vector of size <code>ndim</code> with a square
+matrix of size <code>ndim</code> by <code>ndim</code> using the naive definition of matrix multiplication in both C and Fortran.
+Which version of your code would run faster? C or Fortran? Why?</p>
+  </li>
+  <li>Consider the following C programs. Which one would run faster (without any compiler optimizations)? Why?<br />
+1)
+    <pre><code class="language-c">#include &lt;stdio.h&gt;
+#include &lt;time.h&gt;
+int matrix[999][999];
+void main()
+{
+    int i, j;
+    for (i = 0; i &lt; 999; i++)
+        for (j = 0; j &lt; 999; j++)
+            matrix[i][j] = matrix[i][j] + (matrix[i][j] * matrix[i][j]);
+}
+</code></pre>
+    <p>2)</p>
+    <pre><code class="language-c">#include &lt;stdio.h&gt;
+#include &lt;time.h&gt;
+int matrix[999][999];
+void main()
+{
+    int i, j;
+    for (j = 0; j &lt; 999; j++)
+        for (i = 0; i &lt; 999; i++)
+            matrix[i][j] = matrix[i][j] + (matrix[i][j] * matrix[i][j]);
+}
+</code></pre>
+  </li>
+  <li>Consider the following Fortran program. Which loop would run faster in this program (without any compiler optimizations)? Why?<br />
+1)
+    <pre><code class="language-fortran">integer :: i, j, matrix(999, 999)
+do i = 1, 999
+    do j = 1, 999
+        matrix(i,j) = matrix(i,j) + (matrix(i,j) * matrix(i,j))
+    end do
+end do
+end
+</code></pre>
+    <p>2)</p>
+    <pre><code class="language-fortran">integer :: i, j, matrix(999, 999)
+do j = 1, 999
+    do i = 1, 999
+        matrix(i,j) = matrix(i,j) + (matrix(i,j) * matrix(i,j))
+    end do
+end do
+end
+</code></pre>
+  </li>
+  <li>
+    <p>Representing matrices as lists in Python can be extremely slow.<br />
+Why are lists unsuitable for numerical storage and fast computation?</p>
+  </li>
+  <li>
+    <p>What are the three fundamental components of a Turing-complete language?</p>
+  </li>
+  <li><strong>Extra credit</strong>: Suppose we have the following matrix. Can you think of a storage scheme for this matrix that could lead to significant memory saving?
+    <pre><code class="language-python">my_matrix = [ [ 0 , 0 , 0 , 1 ]
+            , [ 2 , 0 , 0 , 0 ]
+            , [ 0 , 5 , 0 , 0 ]
+            , [ 0 , 0 , 0 , 3 ]
+            , [ 0 , 0 , 8 , 0 ]
+            ]
+</code></pre>
+  </li>
 </ol>
 
 
@@ -229,11 +322,11 @@ The following figure illustrates the grade distribution for this quiz.
         <div class="cf"></div>
 <div class="row text-center">
     <section class="notepad-post-share">
-        <a class="twitter-icon" href="https://twitter.com/intent/tweet?text=&quot;Quiz 1: Version control system&quot;%20/MMP2023S/quiz/1-version-control-system%20via%20&#64;"
+        <a class="twitter-icon" href="https://twitter.com/intent/tweet?text=&quot;Quiz 2: Programming basics&quot;%20/MMP2023S/quiz/2-programming%20via%20&#64;"
             onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" title="Share on Twitter">
             <i class="fa fa-twitter"></i>
         </a>
-        <a class="facebook-icon" href="https://www.facebook.com/sharer/sharer.php?u=/MMP2023S/quiz/1-version-control-system"
+        <a class="facebook-icon" href="https://www.facebook.com/sharer/sharer.php?u=/MMP2023S/quiz/2-programming"
             onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" title="Share on Facebook">
             <i class="fa fa-facebook"></i>
         </a>

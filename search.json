@@ -38,6 +38,14 @@
 		  "url"        : "/MMP2023S/homework/1-vcs",
 		  "date"       : "2023-01-20 00:00:00 -0600",
 		  "shortdate"  : "January 20, 2023"
+		} ,
+	
+		{
+		  "title"      : "Quiz 2: Programming basics",
+		  "category"   : "",
+		  "url"        : "/MMP2023S/quiz/2-programming",
+		  "date"       : "2021-04-05 00:00:00 -0500",
+		  "shortdate"  : "April 05, 2021"
 		} 
 	
 ]
