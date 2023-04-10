@@ -7,13 +7,47 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/MMP2023S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/MMP2023S/" />
-<updated>2023-04-05T10:47:56-05:00</updated>
+<updated>2023-04-10T02:46:55-05:00</updated>
 <id>http:/MMP2023S/</id>
 <author>
   <name>Amir Shahmoradi</name>
   <uri>http:/MMP2023S/</uri>
   <email>bagheri.fateme@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Chapter 3: Programming paradigms]]></title>
+  <link rel="alternate" type="text/html" href="http:/MMP2023S/lecture/3-oop"/>
+  <id>http:/MMP2023S/lecture/3-oop</id>
+  <published>2023-04-01T00:00:00-05:00</published>
+  <updated>0000-00-00T00:00:00-00:00</updated>
+  
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/MMP2023S</uri>
+    <email>bagheri.fateme@gmail.com</email>
+  </author>
+  
+  <content type="html">
+  
+    
+&lt;p&gt;This lecture aims at providing an overview of computer programming history and, in particular, Python, as we well as popular implementations of Python interpreter and editors and how to install them.&lt;/p&gt;
+
+&lt;div class=&quot;post_toc&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;The material for this lecture can be found at:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/python/notes/object-oriented-programming/instantiation/instantiation.html&quot; target=&quot;_blank&quot;&gt;Object-Oriented Programming(OOP): Instantiation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/python/notes/object-oriented-programming/encapsulation/encapsulation.html&quot; target=&quot;_blank&quot;&gt;Object-Oriented Programming(OOP): Encapsulation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/python/notes/object-oriented-programming/inheritance/inheritance.html&quot; target=&quot;_blank&quot;&gt;Object-Oriented Programming(OOP): Inheritance&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/lecture/3-oop&quot;&gt;Chapter 3: Programming paradigms&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 01, 2023.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -164,7 +198,7 @@ The following figure illustrates the grade distribution for this quiz.
 
 
 <entry>
-  <title type="html"><![CDATA[Lecture 2: A brief history of computer programming]]></title>
+  <title type="html"><![CDATA[Chapter 2: Computer hardware, software, programming, and history]]></title>
   <link rel="alternate" type="text/html" href="http:/MMP2023S/lecture/2-history"/>
   <id>http:/MMP2023S/lecture/2-history</id>
   <published>2023-02-01T00:00:00-06:00</published>
@@ -193,12 +227,12 @@ The following figure illustrates the grade distribution for this quiz.
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/lecture/2-history&quot;&gt;Lecture 2: A brief history of computer programming&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on February 01, 2023.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/lecture/2-history&quot;&gt;Chapter 2: Computer hardware, software, programming, and history&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on February 01, 2023.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[Lecture 1: Version Control Systems, Git, and GitHub]]></title>
+  <title type="html"><![CDATA[Chapter 1: Version Control Systems, Git, and GitHub]]></title>
   <link rel="alternate" type="text/html" href="http:/MMP2023S/lecture/1-vcs"/>
   <id>http:/MMP2023S/lecture/1-vcs</id>
   <published>2023-01-20T00:00:00-06:00</published>
@@ -227,7 +261,7 @@ The following figure illustrates the grade distribution for this quiz.
 &lt;/ul&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/lecture/1-vcs&quot;&gt;Lecture 1: Version Control Systems, Git, and GitHub&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on January 20, 2023.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/lecture/1-vcs&quot;&gt;Chapter 1: Version Control Systems, Git, and GitHub&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on January 20, 2023.&lt;/p&gt;</content>
 </entry>
 
 

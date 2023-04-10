@@ -12,16 +12,6 @@ callback([
   } ,
 
   {
-    "text": "Lecture 2: A brief history of computer programming",
-    "href": "/MMP2023S/lecture/2-history"
-  } ,
-
-  {
-    "text": "Lecture 1: Version Control Systems, Git, and GitHub",
-    "href": "/MMP2023S/lecture/1-vcs"
-  } ,
-
-  {
     "text": "Homework 2: Programming Basics",
     "href": "/MMP2023S/homework/2-programming-basics"
   } ,
@@ -29,6 +19,21 @@ callback([
   {
     "text": "Homework 1: Version Control Using Git and Github",
     "href": "/MMP2023S/homework/1-vcs"
+  } ,
+
+  {
+    "text": "Chapter 3: Programming paradigms",
+    "href": "/MMP2023S/lecture/3-oop"
+  } ,
+
+  {
+    "text": "Chapter 2: Computer hardware, software, programming, and history",
+    "href": "/MMP2023S/lecture/2-history"
+  } ,
+
+  {
+    "text": "Chapter 1: Version Control Systems, Git, and GitHub",
+    "href": "/MMP2023S/lecture/1-vcs"
   } 
 
 ])

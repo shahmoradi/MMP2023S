@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Chapter 3: Programming paradigms",
+		  "category"   : "",
+		  "url"        : "/MMP2023S/lecture/3-oop",
+		  "date"       : "2023-04-01 00:00:00 -0500",
+		  "shortdate"  : "April 01, 2023"
+		} ,
+	
+		{
 		  "title"      : "Homework 2: Programming Basics",
 		  "category"   : "",
 		  "url"        : "/MMP2023S/homework/2-programming-basics",
@@ -17,7 +25,7 @@
 		} ,
 	
 		{
-		  "title"      : "Lecture 2: A brief history of computer programming",
+		  "title"      : "Chapter 2: Computer hardware, software, programming, and history",
 		  "category"   : "",
 		  "url"        : "/MMP2023S/lecture/2-history",
 		  "date"       : "2023-02-01 00:00:00 -0600",
@@ -25,7 +33,7 @@
 		} ,
 	
 		{
-		  "title"      : "Lecture 1: Version Control Systems, Git, and GitHub",
+		  "title"      : "Chapter 1: Version Control Systems, Git, and GitHub",
 		  "category"   : "",
 		  "url"        : "/MMP2023S/lecture/1-vcs",
 		  "date"       : "2023-01-20 00:00:00 -0600",
