@@ -12,6 +12,11 @@ callback([
   } ,
 
   {
+    "text": "Homework 3: Programming: Object-Oriented Paradigm",
+    "href": "/MMP2023S/homework/3-programming-oop"
+  } ,
+
+  {
     "text": "Homework 2: Programming Basics",
     "href": "/MMP2023S/homework/2-programming-basics"
   } ,
