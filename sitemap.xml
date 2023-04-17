@@ -48,6 +48,14 @@
 
     
     <url>
+        <loc>/MMP2023S/quiz/3-oop</loc>
+    </url>
+    
+    <url>
+        <loc>/MMP2023S/quiz/2-programming</loc>
+    </url>
+    
+    <url>
         <loc>/MMP2023S/lecture/3-oop</loc>
     </url>
     
@@ -73,10 +81,6 @@
     
     <url>
         <loc>/MMP2023S/homework/1-vcs</loc>
-    </url>
-    
-    <url>
-        <loc>/MMP2023S/quiz/2-programming</loc>
     </url>
     
 </urlset>

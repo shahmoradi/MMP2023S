@@ -7,13 +7,252 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/MMP2023S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/MMP2023S/" />
-<updated>2023-04-12T19:06:17-05:00</updated>
+<updated>2023-04-16T23:37:20-05:00</updated>
 <id>http:/MMP2023S/</id>
 <author>
   <name>Amir Shahmoradi</name>
   <uri>http:/MMP2023S/</uri>
   <email>bagheri.fateme@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Quiz 3: Object-Oriented Programming (OOP) basics]]></title>
+  <link rel="alternate" type="text/html" href="http:/MMP2023S/quiz/3-oop"/>
+  <id>http:/MMP2023S/quiz/3-oop</id>
+  <published>2023-04-17T00:00:00-05:00</published>
+  <updated>2023-04-17T00:00:00-05:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/MMP2023S</uri>
+    <email>bagheri.fateme@gmail.com</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;!--
+This is the solution to [Quiz 1: Problems - Version control system](1-problems-version-control-system.html){:target=&quot;_blank&quot;}.
+
+The following figure illustrates the grade distribution for this quiz.
+&lt;figure&gt;
+    &lt;img src=&quot;http:/MMP2023S/quiz/gradeDist/gradeHistQuiz1.png&quot; width=&quot;700&quot;&gt;
+    &lt;figcaption style=&quot;text-align:center&quot;&gt;
+        Maximum possible points is 1.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+
+&lt;p&gt;This quiz aims at testing your basic knowledge of programming.&lt;br /&gt;
+Don’t forget to push your answers to your remote repository by the end of quiz time. Push all your answers to &lt;strong&gt;quiz/3/&lt;/strong&gt; folder in your Github project.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/oop-parabola/oop-parabola&quot; target=&quot;_blank&quot;&gt;Parabola as a subclass of line&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Briefly&lt;/strong&gt; describe the notion of encapsulation in OOP.&lt;/li&gt;
+  &lt;li&gt;What is the Diamond Problem in OOP and how is it resolved in Python?&lt;/li&gt;
+&lt;/ol&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/quiz/3-oop&quot;&gt;Quiz 3: Object-Oriented Programming (OOP) basics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 17, 2023.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Quiz 2: Programming basics]]></title>
+  <link rel="alternate" type="text/html" href="http:/MMP2023S/quiz/2-programming"/>
+  <id>http:/MMP2023S/quiz/2-programming</id>
+  <published>2023-04-05T00:00:00-05:00</published>
+  <updated>2023-04-05T00:00:00-05:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/MMP2023S</uri>
+    <email>bagheri.fateme@gmail.com</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;!--
+This is the solution to [Quiz 1: Problems - Version control system](1-problems-version-control-system.html){:target=&quot;_blank&quot;}.
+
+The following figure illustrates the grade distribution for this quiz.
+&lt;figure&gt;
+    &lt;img src=&quot;http:/MMP2023S/quiz/gradeDist/gradeHistQuiz1.png&quot; width=&quot;700&quot;&gt;
+    &lt;figcaption style=&quot;text-align:center&quot;&gt;
+        Maximum possible points is 1.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+
+&lt;p&gt;This quiz aims at testing your basic knowledge of programming. Don’t forget to push your answers to your remote repository by the end of quiz time. Push all your answers to &lt;strong&gt;quiz/2/&lt;/strong&gt; folder in your Github project.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;(A) What is the closest programming language to machine code (i.e., binary code)?&lt;/p&gt;
+
+    &lt;p&gt;(B) Does it need interpretation in order to become machine-comprehensible?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;(A) Name the oldest high-level programming language.&lt;/p&gt;
+
+    &lt;p&gt;(B) Approximately how many decades is it old? ($\pm15$ years is acceptable answer. the decade it was created is also an acceptable answer)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In what decades C, C++, and MATLAB/Python were created, respectively?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name an ancestor programming language of C.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name a programming language ancestor of C++.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Consider the following C++ code.
+    &lt;pre&gt;&lt;code class=&quot;language-cpp&quot;&gt;int getSquare(int num) {
+    return num * num;
+}
+
+int main(){
+    return getsquare(2);
+}
+&lt;/code&gt;&lt;/pre&gt;
+    &lt;p&gt;What kind of programming error does this code contain?
+&lt;strong&gt;Hint&lt;/strong&gt;: You can copy and paste this code to &lt;a href=&quot;https://godbolt.org/&quot;&gt;https://godbolt.org/&lt;/a&gt; to see the compiler message (by choosing the C++ language from the drop-down menu).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Consider the following Python code.
+    &lt;pre&gt;&lt;code class=&quot;language-fortran&quot;&gt;&quot;&quot;&quot;
+Return `True` if the input integer is even.
+&quot;&quot;&quot;
+def isEven(int): return int / 2 == float(int) / 2
+&lt;/code&gt;&lt;/pre&gt;
+    &lt;p&gt;Does this code contain any kind of programming error?
+If you believe it contains an error, what kind of error is it?
+Otherwise explain how it yields the correct answer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Consider the following Fortran code.
+    &lt;pre&gt;&lt;code class=&quot;language-fortran&quot;&gt;real :: array(0 : 2)
+print *, array(3)
+end
+&lt;/code&gt;&lt;/pre&gt;
+    &lt;p&gt;Does this code contain any kind of programming error? Why?
+&lt;strong&gt;Hint&lt;/strong&gt;: You can copy and paste this code to &lt;a href=&quot;https://godbolt.org/&quot;&gt;https://godbolt.org/&lt;/a&gt; to see the
+Fortran compiler behavior (by choosing the &lt;code&gt;x86-64 gfortran (trunk)&lt;/code&gt; compiler from the drop-down menu).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Suppose you write a program that has memory leak. What type of programming error are you dealing with?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What are the order-of-magnitudes of the largest &lt;code&gt;32&lt;/code&gt;-bit and &lt;code&gt;64&lt;/code&gt;-bit IEEE integers?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What are the the smallest and the largest exponents in base &lt;code&gt;10&lt;/code&gt; that are representable with &lt;code&gt;32&lt;/code&gt;-bit and &lt;code&gt;64&lt;/code&gt;-bit IEEE real/float values?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Suppose you invent a integer binary storage for computers composed of 5-bits.
+What would be the range of signed integer values in your custom representation?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Consider the IEEE 754 single-precision 32-bit float.
+How many floats can be represented with such a storage scheme?
+How many subnormal values do exist in this storage scheme?
+How many infinite values do exist in this storage scheme?
+How many NaN values do exist in this storage scheme?
+What bit pattern would correspond to an infinity?
+What bit pattern would correspond to a subnormal?
+What bit pattern would correspond to a NaN?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Why are chaotic phenomena hard to simulate by digital computers?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the difference between mutable and immutable objects in computer programming?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Write a recursive function in your favorite programming language that takes a vector of integers as input and outputs the minimum value.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Suppose you implement the matrix multiplication of a large square matrix of size &lt;code&gt;ndim&lt;/code&gt; by &lt;code&gt;ndim&lt;/code&gt;
+with a column vector of similar size &lt;code&gt;ndim&lt;/code&gt; using the naive definition of matrix multiplication in both C and Fortran.
+Which version of your code would run faster? C or Fortran? Why?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Suppose you implement the matrix multiplication of a row vector of size &lt;code&gt;ndim&lt;/code&gt; with a square
+matrix of size &lt;code&gt;ndim&lt;/code&gt; by &lt;code&gt;ndim&lt;/code&gt; using the naive definition of matrix multiplication in both C and Fortran.
+Which version of your code would run faster? C or Fortran? Why?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Consider the following C programs. Which one would run faster (without any compiler optimizations)? Why?&lt;br /&gt;
+1)
+    &lt;pre&gt;&lt;code class=&quot;language-c&quot;&gt;#include &amp;lt;stdio.h&amp;gt;
+#include &amp;lt;time.h&amp;gt;
+int matrix[999][999];
+void main()
+{
+    int i, j;
+    for (i = 0; i &amp;lt; 999; i++)
+        for (j = 0; j &amp;lt; 999; j++)
+            matrix[i][j] = matrix[i][j] + (matrix[i][j] * matrix[i][j]);
+}
+&lt;/code&gt;&lt;/pre&gt;
+    &lt;p&gt;2)&lt;/p&gt;
+    &lt;pre&gt;&lt;code class=&quot;language-c&quot;&gt;#include &amp;lt;stdio.h&amp;gt;
+#include &amp;lt;time.h&amp;gt;
+int matrix[999][999];
+void main()
+{
+    int i, j;
+    for (j = 0; j &amp;lt; 999; j++)
+        for (i = 0; i &amp;lt; 999; i++)
+            matrix[i][j] = matrix[i][j] + (matrix[i][j] * matrix[i][j]);
+}
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Consider the following Fortran program. Which loop would run faster in this program (without any compiler optimizations)? Why?&lt;br /&gt;
+1)
+    &lt;pre&gt;&lt;code class=&quot;language-fortran&quot;&gt;integer :: i, j, matrix(999, 999)
+do i = 1, 999
+    do j = 1, 999
+        matrix(i,j) = matrix(i,j) + (matrix(i,j) * matrix(i,j))
+    end do
+end do
+end
+&lt;/code&gt;&lt;/pre&gt;
+    &lt;p&gt;2)&lt;/p&gt;
+    &lt;pre&gt;&lt;code class=&quot;language-fortran&quot;&gt;integer :: i, j, matrix(999, 999)
+do j = 1, 999
+    do i = 1, 999
+        matrix(i,j) = matrix(i,j) + (matrix(i,j) * matrix(i,j))
+    end do
+end do
+end
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Representing matrices as lists in Python can be extremely slow.&lt;br /&gt;
+Why are lists unsuitable for numerical storage and fast computation?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What are the three fundamental components of a Turing-complete language?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Suppose we have the following matrix. Can you think of a storage scheme for this matrix that could lead to significant memory saving?
+    &lt;pre&gt;&lt;code class=&quot;language-python&quot;&gt;my_matrix = [ [ 0 , 0 , 0 , 1 ]
+            , [ 2 , 0 , 0 , 0 ]
+            , [ 0 , 5 , 0 , 0 ]
+            , [ 0 , 0 , 0 , 3 ]
+            , [ 0 , 0 , 8 , 0 ]
+            ]
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/quiz/2-programming&quot;&gt;Quiz 2: Programming basics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 05, 2023.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -330,201 +569,6 @@ error: Cannot delete branch &apos;test&apos; checked out at &apos;C:/Users/Fatem
 
   
   &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/homework/1-vcs&quot;&gt;Homework 1: Version Control Using Git and Github&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on January 20, 2023.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Quiz 2: Programming basics]]></title>
-  <link rel="alternate" type="text/html" href="http:/MMP2023S/quiz/2-programming"/>
-  <id>http:/MMP2023S/quiz/2-programming</id>
-  <published>2021-04-05T00:00:00-05:00</published>
-  <updated>2021-04-05T00:00:00-05:00</updated>
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/MMP2023S</uri>
-    <email>bagheri.fateme@gmail.com</email>
-  </author>
-  
-  <content type="html">
-  
-    &lt;!--
-This is the solution to [Quiz 1: Problems - Version control system](1-problems-version-control-system.html){:target=&quot;_blank&quot;}.
-
-The following figure illustrates the grade distribution for this quiz.
-&lt;figure&gt;
-    &lt;img src=&quot;http:/MMP2023S/quiz/gradeDist/gradeHistQuiz1.png&quot; width=&quot;700&quot;&gt;
-    &lt;figcaption style=&quot;text-align:center&quot;&gt;
-        Maximum possible points is 1.
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-
-&lt;p&gt;This quiz aims at testing your basic knowledge of programming. Don’t forget to push your answers to your remote repository by the end of quiz time. Push all your answers to &lt;strong&gt;quiz/2/&lt;/strong&gt; folder in your Github project.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;(A) What is the closest programming language to machine code (i.e., binary code)?&lt;/p&gt;
-
-    &lt;p&gt;(B) Does it need interpretation in order to become machine-comprehensible?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;(A) Name the oldest high-level programming language.&lt;/p&gt;
-
-    &lt;p&gt;(B) Approximately how many decades is it old? ($\pm15$ years is acceptable answer. the decade it was created is also an acceptable answer)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;In what decades C, C++, and MATLAB/Python were created, respectively?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Name an ancestor programming language of C.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Name a programming language ancestor of C++.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Consider the following C++ code.
-    &lt;pre&gt;&lt;code class=&quot;language-cpp&quot;&gt;int getSquare(int num) {
-    return num * num;
-}
-
-int main(){
-    return getsquare(2);
-}
-&lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;What kind of programming error does this code contain?
-&lt;strong&gt;Hint&lt;/strong&gt;: You can copy and paste this code to &lt;a href=&quot;https://godbolt.org/&quot;&gt;https://godbolt.org/&lt;/a&gt; to see the compiler message (by choosing the C++ language from the drop-down menu).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Consider the following Python code.
-    &lt;pre&gt;&lt;code class=&quot;language-fortran&quot;&gt;&quot;&quot;&quot;
-Return `True` if the input integer is even.
-&quot;&quot;&quot;
-def isEven(int): return int / 2 == float(int) / 2
-&lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Does this code contain any kind of programming error?
-If you believe it contains an error, what kind of error is it?
-Otherwise explain how it yields the correct answer.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Consider the following Fortran code.
-    &lt;pre&gt;&lt;code class=&quot;language-fortran&quot;&gt;real :: array(0 : 2)
-print *, array(3)
-end
-&lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Does this code contain any kind of programming error? Why?
-&lt;strong&gt;Hint&lt;/strong&gt;: You can copy and paste this code to &lt;a href=&quot;https://godbolt.org/&quot;&gt;https://godbolt.org/&lt;/a&gt; to see the
-Fortran compiler behavior (by choosing the &lt;code&gt;x86-64 gfortran (trunk)&lt;/code&gt; compiler from the drop-down menu).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Suppose you write a program that has memory leak. What type of programming error are you dealing with?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;What are the order-of-magnitudes of the largest &lt;code&gt;32&lt;/code&gt;-bit and &lt;code&gt;64&lt;/code&gt;-bit IEEE integers?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;What are the the smallest and the largest exponents in base &lt;code&gt;10&lt;/code&gt; that are representable with &lt;code&gt;32&lt;/code&gt;-bit and &lt;code&gt;64&lt;/code&gt;-bit IEEE real/float values?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Suppose you invent a integer binary storage for computers composed of 5-bits.
-What would be the range of signed integer values in your custom representation?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Consider the IEEE 754 single-precision 32-bit float.
-How many floats can be represented with such a storage scheme?
-How many subnormal values do exist in this storage scheme?
-How many infinite values do exist in this storage scheme?
-How many NaN values do exist in this storage scheme?
-What bit pattern would correspond to an infinity?
-What bit pattern would correspond to a subnormal?
-What bit pattern would correspond to a NaN?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Why are chaotic phenomena hard to simulate by digital computers?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;What is the difference between mutable and immutable objects in computer programming?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Write a recursive function in your favorite programming language that takes a vector of integers as input and outputs the minimum value.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Suppose you implement the matrix multiplication of a large square matrix of size &lt;code&gt;ndim&lt;/code&gt; by &lt;code&gt;ndim&lt;/code&gt;
-with a column vector of similar size &lt;code&gt;ndim&lt;/code&gt; using the naive definition of matrix multiplication in both C and Fortran.
-Which version of your code would run faster? C or Fortran? Why?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Suppose you implement the matrix multiplication of a row vector of size &lt;code&gt;ndim&lt;/code&gt; with a square
-matrix of size &lt;code&gt;ndim&lt;/code&gt; by &lt;code&gt;ndim&lt;/code&gt; using the naive definition of matrix multiplication in both C and Fortran.
-Which version of your code would run faster? C or Fortran? Why?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Consider the following C programs. Which one would run faster (without any compiler optimizations)? Why?&lt;br /&gt;
-1)
-    &lt;pre&gt;&lt;code class=&quot;language-c&quot;&gt;#include &amp;lt;stdio.h&amp;gt;
-#include &amp;lt;time.h&amp;gt;
-int matrix[999][999];
-void main()
-{
-    int i, j;
-    for (i = 0; i &amp;lt; 999; i++)
-        for (j = 0; j &amp;lt; 999; j++)
-            matrix[i][j] = matrix[i][j] + (matrix[i][j] * matrix[i][j]);
-}
-&lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;2)&lt;/p&gt;
-    &lt;pre&gt;&lt;code class=&quot;language-c&quot;&gt;#include &amp;lt;stdio.h&amp;gt;
-#include &amp;lt;time.h&amp;gt;
-int matrix[999][999];
-void main()
-{
-    int i, j;
-    for (j = 0; j &amp;lt; 999; j++)
-        for (i = 0; i &amp;lt; 999; i++)
-            matrix[i][j] = matrix[i][j] + (matrix[i][j] * matrix[i][j]);
-}
-&lt;/code&gt;&lt;/pre&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Consider the following Fortran program. Which loop would run faster in this program (without any compiler optimizations)? Why?&lt;br /&gt;
-1)
-    &lt;pre&gt;&lt;code class=&quot;language-fortran&quot;&gt;integer :: i, j, matrix(999, 999)
-do i = 1, 999
-    do j = 1, 999
-        matrix(i,j) = matrix(i,j) + (matrix(i,j) * matrix(i,j))
-    end do
-end do
-end
-&lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;2)&lt;/p&gt;
-    &lt;pre&gt;&lt;code class=&quot;language-fortran&quot;&gt;integer :: i, j, matrix(999, 999)
-do j = 1, 999
-    do i = 1, 999
-        matrix(i,j) = matrix(i,j) + (matrix(i,j) * matrix(i,j))
-    end do
-end do
-end
-&lt;/code&gt;&lt;/pre&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Representing matrices as lists in Python can be extremely slow.&lt;br /&gt;
-Why are lists unsuitable for numerical storage and fast computation?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;What are the three fundamental components of a Turing-complete language?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Suppose we have the following matrix. Can you think of a storage scheme for this matrix that could lead to significant memory saving?
-    &lt;pre&gt;&lt;code class=&quot;language-python&quot;&gt;my_matrix = [ [ 0 , 0 , 0 , 1 ]
-            , [ 2 , 0 , 0 , 0 ]
-            , [ 0 , 5 , 0 , 0 ]
-            , [ 0 , 0 , 0 , 3 ]
-            , [ 0 , 0 , 8 , 0 ]
-            ]
-&lt;/code&gt;&lt;/pre&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/quiz/2-programming&quot;&gt;Quiz 2: Programming basics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 05, 2021.&lt;/p&gt;</content>
 </entry>
 
 </feed>

@@ -2,6 +2,11 @@
 callback([
 
   {
+    "text": "Quiz 3: Object-Oriented Programming (OOP) basics",
+    "href": "/MMP2023S/quiz/3-oop"
+  } ,
+
+  {
     "text": "Quiz 2: Programming basics",
     "href": "/MMP2023S/quiz/2-programming"
   } ,

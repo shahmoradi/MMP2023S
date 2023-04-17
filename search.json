@@ -1,6 +1,22 @@
 [
 	
 		{
+		  "title"      : "Quiz 3: Object-Oriented Programming (OOP) basics",
+		  "category"   : "",
+		  "url"        : "/MMP2023S/quiz/3-oop",
+		  "date"       : "2023-04-17 00:00:00 -0500",
+		  "shortdate"  : "April 17, 2023"
+		} ,
+	
+		{
+		  "title"      : "Quiz 2: Programming basics",
+		  "category"   : "",
+		  "url"        : "/MMP2023S/quiz/2-programming",
+		  "date"       : "2023-04-05 00:00:00 -0500",
+		  "shortdate"  : "April 05, 2023"
+		} ,
+	
+		{
 		  "title"      : "Chapter 3: Programming paradigms",
 		  "category"   : "",
 		  "url"        : "/MMP2023S/lecture/3-oop",
@@ -54,14 +70,6 @@
 		  "url"        : "/MMP2023S/homework/1-vcs",
 		  "date"       : "2023-01-20 00:00:00 -0600",
 		  "shortdate"  : "January 20, 2023"
-		} ,
-	
-		{
-		  "title"      : "Quiz 2: Programming basics",
-		  "category"   : "",
-		  "url"        : "/MMP2023S/quiz/2-programming",
-		  "date"       : "2021-04-05 00:00:00 -0500",
-		  "shortdate"  : "April 05, 2021"
 		} 
 	
 ]
