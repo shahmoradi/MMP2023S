@@ -33,6 +33,11 @@ callback([
 
   {
     "text": "Chapter 3: Programming paradigms",
+    "href": "/MMP2023S/lecture/4-performance-optimization"
+  } ,
+
+  {
+    "text": "Chapter 3: Programming paradigms",
     "href": "/MMP2023S/lecture/3-oop"
   } ,
 
