@@ -17,6 +17,11 @@ callback([
   } ,
 
   {
+    "text": "Homework 4: Programming: Performance optimization",
+    "href": "/MMP2023S/homework/4-programming-performance-optimization"
+  } ,
+
+  {
     "text": "Homework 3: Programming: Object-Oriented Paradigm",
     "href": "/MMP2023S/homework/3-programming-oop"
   } ,
@@ -33,12 +38,12 @@ callback([
 
   {
     "text": "Chapter 3: Programming paradigms",
-    "href": "/MMP2023S/lecture/4-performance-optimization"
+    "href": "/MMP2023S/lecture/3-oop"
   } ,
 
   {
     "text": "Chapter 3: Programming paradigms",
-    "href": "/MMP2023S/lecture/3-oop"
+    "href": "/MMP2023S/lecture/4-performance-optimization"
   } ,
 
   {
