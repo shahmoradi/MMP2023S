@@ -11,7 +11,7 @@
 -->
 
 <meta charset="utf-8">
-<title>QUIZ 1: VERSION CONTROL SYSTEM &vert; PHYS-5319 - MATHEMATICAL METHODS IN PHYSICS III - SPRING 2023 - MW 10:30-11:45 @ SH 315</title>
+<title>QUIZ 4: PERFORMANCE OPTIMIZATION &vert; PHYS-5319 - MATHEMATICAL METHODS IN PHYSICS III - SPRING 2023 - MW 10:30-11:45 @ SH 315</title>
 <meta name="description" content="Mathematical Methods in Physics III">
 <meta name="keywords" content="">
 
@@ -20,9 +20,9 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Quiz 1: Version control system">
+<meta property="og:title" content="Quiz 4: Performance optimization">
 <meta property="og:description" content="Mathematical Methods in Physics III">
-<meta property="og:url" content="/MMP2023S/quiz/1-version-control-system">
+<meta property="og:url" content="/MMP2023S/quiz/4-performance">
 <meta property="og:site_name" content="PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315">
 <meta property="og:image" content="/MMP2023S/images/">
 
@@ -30,7 +30,7 @@
 
 
 
-<link rel="canonical" href="/MMP2023S/quiz/1-version-control-system">
+<link rel="canonical" href="/MMP2023S/quiz/4-performance">
 <!-- <link href="/MMP2023S/feed.xml" type="application/atom+xml" rel="alternate" title="PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315 Feed"> -->
 
 
@@ -130,8 +130,8 @@ MathJax.Hub.Queue(function() {
                 <div class="notepad-post-title-simple row">
                     <div class="small-12 columns">
                         <div class="notepad-post-meta-simple">
-                            <h2>Quiz 1: Version control system</h2>
-                            <p>by <strong>Amir Shahmoradi</strong> &#8212;  <strong><time datetime="2023-02-13T00:00:00-06:00">13 Feb 2023</time></strong></p>
+                            <h2>Quiz 4: Performance optimization</h2>
+                            <p>by <strong>Amir Shahmoradi</strong> &#8212;  <strong><time datetime="2023-04-24T00:00:00-05:00">24 Apr 2023</time></strong></p>
                         </div>
                     </div>
                 </div>
@@ -142,9 +142,9 @@ MathJax.Hub.Queue(function() {
         
             <div style="text-align:justify;">
                 <!--
-This is the solution to [Quiz 1: Problems - Version control system](1-problems-version-control-system.html){:target="_blank"}.  
+This is the solution to [Quiz 1: Problems - Version control system](1-problems-version-control-system.html){:target="_blank"}.
 
-The following figure illustrates the grade distribution for this quiz.  
+The following figure illustrates the grade distribution for this quiz.
 <figure>
     <img src="/MMP2023S/quiz/gradeDist/gradeHistQuiz1.png" width="700">
     <figcaption style="text-align:center">
@@ -153,87 +153,27 @@ The following figure illustrates the grade distribution for this quiz.
 </figure>
 -->
 
-<p>This quiz aims at testing your basic knowledge of Version Control System. Don’t forget to push your answers to your remote repository by the end of quiz time. Push all your answers to <strong>quiz/1/</strong> folder in your Github project.</p>
+<p>This quiz aims at testing your basic knowledge of performance optimization techniques.<br />
+Don’t forget to push your answers to your remote repository by the end of quiz time. Push all your answers to <strong>quiz/4/</strong> folder in your Github project.</p>
 
 <hr />
 <hr />
 
 <p><br /></p>
 <ol>
-  <li>
-    <p>Name the three generations of VCS. Briefly describe how each paradigm works and a problem that it resolves in the previous generation.
-<br /></p>
-  </li>
-  <li>
-    <p>Which VCS generation does <code>git</code> software belong to?<br />
-<br /></p>
-  </li>
-  <li>
-    <p>Which of the following Git commands can add all the <strong>new</strong> and <strong>modified-existing</strong> files to the staging area? choose all that apply.<br />
-<br />
-(A) <code>git add -A</code><br />
-(B) <code>git add --A</code><br />
-(C) <code>git add -all</code><br />
-(D) <code>git add --all</code><br />
-(E) <code>git add -u</code><br />
-(F) <code>git add .</code><br />
-(G) <code>git add .; git add -u</code><br />
-(H) <code>git add .; git add --u</code><br />
-(I) <code>git add -u; git add .</code><br />
-(J) <code>git add --u; git add .</code></p>
-  </li>
-  <li>
-    <p>Which of the following Git commands <strong>both</strong> stages and commits <strong>only modified and deleted files</strong> but <strong>NOT</strong> the <em>new files</em> added to the repository since the last commit. Choose all that apply.<br />
-<br />
-(A) <code>git commit</code><br />
-(B) <code>git commit -a</code><br />
-(C) <code>git commit -am</code></p>
-  </li>
-  <li>
-    <p>Write down the Git command that lists all Git commands for you.</p>
-  </li>
-  <li>
-    <p>Write down the Git command that lists all branches for you.</p>
-  </li>
-  <li>
-    <p>Write down the Git command that creates and checks out a new branch named <code>dev</code> from the current branch.</p>
-  </li>
-  <li>Perform the following tasks on a Git command-line on your computer and copy and paste the output to your quiz response file.
-    <ol>
-      <li>
-        <p>Initialize an empty project <strong>locally</strong> on your system in a temporary folder. Copy the command and the Git output here.</p>
-      </li>
-      <li>
-        <p>Add a <code>README.md</code> file to this project and add your name to it, save it and close it, then stage and commit it.</p>
-      </li>
-      <li>
-        <p>Now create a new branch <code>dev</code> from the current branch and switch to it.</p>
-      </li>
-      <li>
-        <p>Modify the <code>README.md</code> file by removing your name. Then, stage and commit the changes to the new branch.</p>
-      </li>
-      <li>
-        <p>Now merge this <code>dev</code> branch with your <code>main</code> branch and delete the new branch that you just created.</p>
-      </li>
-      <li>
-        <p>List all existing branches in your project.</p>
-      </li>
-    </ol>
-  </li>
-  <li>Write down the Git command that lists all commits made to the project.</li>
+  <li><a href="https://www.cdslab.org/recipes/programming/hpc-linear-binary-search/hpc-linear-binary-search" target="_blank">Performance optimization: Searching sorted array via linear vs. binary search</a></li>
 </ol>
-
 
             </div>
         </article>
         <div class="cf"></div>
 <div class="row text-center">
     <section class="notepad-post-share">
-        <a class="twitter-icon" href="https://twitter.com/intent/tweet?text=&quot;Quiz 1: Version control system&quot;%20/MMP2023S/quiz/1-version-control-system%20via%20&#64;"
+        <a class="twitter-icon" href="https://twitter.com/intent/tweet?text=&quot;Quiz 4: Performance optimization&quot;%20/MMP2023S/quiz/4-performance%20via%20&#64;"
             onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" title="Share on Twitter">
             <i class="fa fa-twitter"></i>
         </a>
-        <a class="facebook-icon" href="https://www.facebook.com/sharer/sharer.php?u=/MMP2023S/quiz/1-version-control-system"
+        <a class="facebook-icon" href="https://www.facebook.com/sharer/sharer.php?u=/MMP2023S/quiz/4-performance"
             onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" title="Share on Facebook">
             <i class="fa fa-facebook"></i>
         </a>

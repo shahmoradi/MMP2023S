@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Quiz 4: Performance optimization",
+		  "category"   : "",
+		  "url"        : "/MMP2023S/quiz/4-performance",
+		  "date"       : "2023-04-24 00:00:00 -0500",
+		  "shortdate"  : "April 24, 2023"
+		} ,
+	
+		{
 		  "title"      : "Quiz 3: Object-Oriented Programming (OOP) basics",
 		  "category"   : "",
 		  "url"        : "/MMP2023S/quiz/3-oop",
@@ -9,7 +17,7 @@
 		} ,
 	
 		{
-		  "title"      : "Chapter 3: Programming paradigms",
+		  "title"      : "Chapter 3: Performance optimization tips and techniques",
 		  "category"   : "",
 		  "url"        : "/MMP2023S/lecture/4-performance-optimization",
 		  "date"       : "2023-04-17 00:00:00 -0500",

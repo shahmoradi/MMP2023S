@@ -2,6 +2,11 @@
 callback([
 
   {
+    "text": "Quiz 4: Performance optimization",
+    "href": "/MMP2023S/quiz/4-performance"
+  } ,
+
+  {
     "text": "Quiz 3: Object-Oriented Programming (OOP) basics",
     "href": "/MMP2023S/quiz/3-oop"
   } ,
@@ -42,7 +47,7 @@ callback([
   } ,
 
   {
-    "text": "Chapter 3: Programming paradigms",
+    "text": "Chapter 3: Performance optimization tips and techniques",
     "href": "/MMP2023S/lecture/4-performance-optimization"
   } ,
 
