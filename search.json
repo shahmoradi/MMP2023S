@@ -9,6 +9,14 @@
 		} ,
 	
 		{
+		  "title"      : "Chapter 5: Statistical inference",
+		  "category"   : "",
+		  "url"        : "/MMP2023S/lecture/5-statistical-inference",
+		  "date"       : "2023-04-19 00:00:00 -0500",
+		  "shortdate"  : "April 19, 2023"
+		} ,
+	
+		{
 		  "title"      : "Quiz 3: Object-Oriented Programming (OOP) basics",
 		  "category"   : "",
 		  "url"        : "/MMP2023S/quiz/3-oop",
@@ -17,9 +25,9 @@
 		} ,
 	
 		{
-		  "title"      : "Chapter 3: Performance optimization tips and techniques",
+		  "title"      : "Chapter 4: Performance optimization tips and techniques",
 		  "category"   : "",
-		  "url"        : "/MMP2023S/lecture/4-performance-optimization",
+		  "url"        : "/MMP2023S/lecture/4-performance-optimization-Copy",
 		  "date"       : "2023-04-17 00:00:00 -0500",
 		  "shortdate"  : "April 17, 2023"
 		} ,

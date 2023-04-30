@@ -42,13 +42,18 @@ callback([
   } ,
 
   {
-    "text": "Chapter 3: Programming paradigms",
-    "href": "/MMP2023S/lecture/3-oop"
+    "text": "Chapter 5: Statistical inference",
+    "href": "/MMP2023S/lecture/5-statistical-inference"
   } ,
 
   {
-    "text": "Chapter 3: Performance optimization tips and techniques",
-    "href": "/MMP2023S/lecture/4-performance-optimization"
+    "text": "Chapter 4: Performance optimization tips and techniques",
+    "href": "/MMP2023S/lecture/4-performance-optimization-Copy"
+  } ,
+
+  {
+    "text": "Chapter 3: Programming paradigms",
+    "href": "/MMP2023S/lecture/3-oop"
   } ,
 
   {
