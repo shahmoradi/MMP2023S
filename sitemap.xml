@@ -48,6 +48,10 @@
 
     
     <url>
+        <loc>/MMP2023S/exam/1-final-project</loc>
+    </url>
+    
+    <url>
         <loc>/MMP2023S/quiz/4-performance</loc>
     </url>
     
@@ -60,7 +64,7 @@
     </url>
     
     <url>
-        <loc>/MMP2023S/lecture/4-performance-optimization-Copy</loc>
+        <loc>/MMP2023S/lecture/4-performance-optimization</loc>
     </url>
     
     <url>

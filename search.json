@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Final exam",
+		  "category"   : "",
+		  "url"        : "/MMP2023S/exam/1-final-project",
+		  "date"       : "2023-05-03 00:00:00 -0500",
+		  "shortdate"  : "May 03, 2023"
+		} ,
+	
+		{
 		  "title"      : "Quiz 4: Performance optimization",
 		  "category"   : "",
 		  "url"        : "/MMP2023S/quiz/4-performance",
@@ -27,7 +35,7 @@
 		{
 		  "title"      : "Chapter 4: Performance optimization tips and techniques",
 		  "category"   : "",
-		  "url"        : "/MMP2023S/lecture/4-performance-optimization-Copy",
+		  "url"        : "/MMP2023S/lecture/4-performance-optimization",
 		  "date"       : "2023-04-17 00:00:00 -0500",
 		  "shortdate"  : "April 17, 2023"
 		} ,
