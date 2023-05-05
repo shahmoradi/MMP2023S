@@ -5,26 +5,26 @@
 
 <title type="text">PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http:/MMP2023S/feed.xml" />
-<link rel="alternate" type="text/html" href="http:/MMP2023S/" />
-<updated>2023-05-03T14:33:46-05:00</updated>
-<id>http:/MMP2023S/</id>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="/" />
+<updated>2023-05-03T14:34:21-05:00</updated>
+<id>/</id>
 <author>
   <name>Amir Shahmoradi</name>
-  <uri>http:/MMP2023S/</uri>
+  <uri>/</uri>
   <email>bagheri.fateme@gmail.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Final exam]]></title>
-  <link rel="alternate" type="text/html" href="http:/MMP2023S/exam/1-final-project"/>
-  <id>http:/MMP2023S/exam/1-final-project</id>
+  <link rel="alternate" type="text/html" href="/exam/1-final-project"/>
+  <id>/exam/1-final-project</id>
   <published>2023-05-03T00:00:00-05:00</published>
   <updated>2023-05-03T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/MMP2023S</uri>
+    <uri></uri>
     <email>bagheri.fateme@gmail.com</email>
   </author>
   
@@ -41,19 +41,19 @@
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/exam/1-final-project&quot;&gt;Final exam&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on May 03, 2023.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/exam/1-final-project&quot;&gt;Final exam&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on May 03, 2023.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Quiz 4: Performance optimization]]></title>
-  <link rel="alternate" type="text/html" href="http:/MMP2023S/quiz/4-performance"/>
-  <id>http:/MMP2023S/quiz/4-performance</id>
+  <link rel="alternate" type="text/html" href="/quiz/4-performance"/>
+  <id>/quiz/4-performance</id>
   <published>2023-04-24T00:00:00-05:00</published>
   <updated>2023-04-24T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/MMP2023S</uri>
+    <uri></uri>
     <email>bagheri.fateme@gmail.com</email>
   </author>
   
@@ -64,7 +64,7 @@ This is the solution to [Quiz 1: Problems - Version control system](1-problems-v
 
 The following figure illustrates the grade distribution for this quiz.
 &lt;figure&gt;
-    &lt;img src=&quot;http:/MMP2023S/quiz/gradeDist/gradeHistQuiz1.png&quot; width=&quot;700&quot;&gt;
+    &lt;img src=&quot;/quiz/gradeDist/gradeHistQuiz1.png&quot; width=&quot;700&quot;&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
         Maximum possible points is 1.
     &lt;/figcaption&gt;
@@ -83,20 +83,20 @@ Don’t forget to push your answers to your remote repository by the end of quiz
 &lt;/ol&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/quiz/4-performance&quot;&gt;Quiz 4: Performance optimization&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 24, 2023.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/quiz/4-performance&quot;&gt;Quiz 4: Performance optimization&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 24, 2023.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Chapter 5: Statistical inference]]></title>
-  <link rel="alternate" type="text/html" href="http:/MMP2023S/lecture/5-statistical-inference"/>
-  <id>http:/MMP2023S/lecture/5-statistical-inference</id>
+  <link rel="alternate" type="text/html" href="/lecture/5-statistical-inference"/>
+  <id>/lecture/5-statistical-inference</id>
   <published>2023-04-19T00:00:00-05:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/MMP2023S</uri>
+    <uri></uri>
     <email>bagheri.fateme@gmail.com</email>
   </author>
   
@@ -114,19 +114,19 @@ Don’t forget to push your answers to your remote repository by the end of quiz
 &lt;/ul&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/lecture/5-statistical-inference&quot;&gt;Chapter 5: Statistical inference&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 19, 2023.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/lecture/5-statistical-inference&quot;&gt;Chapter 5: Statistical inference&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 19, 2023.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Quiz 3: Object-Oriented Programming (OOP) basics]]></title>
-  <link rel="alternate" type="text/html" href="http:/MMP2023S/quiz/3-oop"/>
-  <id>http:/MMP2023S/quiz/3-oop</id>
+  <link rel="alternate" type="text/html" href="/quiz/3-oop"/>
+  <id>/quiz/3-oop</id>
   <published>2023-04-17T00:00:00-05:00</published>
   <updated>2023-04-17T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/MMP2023S</uri>
+    <uri></uri>
     <email>bagheri.fateme@gmail.com</email>
   </author>
   
@@ -137,7 +137,7 @@ This is the solution to [Quiz 1: Problems - Version control system](1-problems-v
 
 The following figure illustrates the grade distribution for this quiz.
 &lt;figure&gt;
-    &lt;img src=&quot;http:/MMP2023S/quiz/gradeDist/gradeHistQuiz1.png&quot; width=&quot;700&quot;&gt;
+    &lt;img src=&quot;/quiz/gradeDist/gradeHistQuiz1.png&quot; width=&quot;700&quot;&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
         Maximum possible points is 1.
     &lt;/figcaption&gt;
@@ -158,20 +158,20 @@ Don’t forget to push your answers to your remote repository by the end of quiz
 &lt;/ol&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/quiz/3-oop&quot;&gt;Quiz 3: Object-Oriented Programming (OOP) basics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 17, 2023.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/quiz/3-oop&quot;&gt;Quiz 3: Object-Oriented Programming (OOP) basics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 17, 2023.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Chapter 4: Performance optimization tips and techniques]]></title>
-  <link rel="alternate" type="text/html" href="http:/MMP2023S/lecture/4-performance-optimization"/>
-  <id>http:/MMP2023S/lecture/4-performance-optimization</id>
+  <link rel="alternate" type="text/html" href="/lecture/4-performance-optimization"/>
+  <id>/lecture/4-performance-optimization</id>
   <published>2023-04-17T00:00:00-05:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/MMP2023S</uri>
+    <uri></uri>
     <email>bagheri.fateme@gmail.com</email>
   </author>
   
@@ -189,19 +189,19 @@ Don’t forget to push your answers to your remote repository by the end of quiz
 &lt;/ul&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/lecture/4-performance-optimization&quot;&gt;Chapter 4: Performance optimization tips and techniques&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 17, 2023.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/lecture/4-performance-optimization&quot;&gt;Chapter 4: Performance optimization tips and techniques&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 17, 2023.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Homework 4: Programming: Performance optimization]]></title>
-  <link rel="alternate" type="text/html" href="http:/MMP2023S/homework/4-programming-performance-optimization"/>
-  <id>http:/MMP2023S/homework/4-programming-performance-optimization</id>
+  <link rel="alternate" type="text/html" href="/homework/4-programming-performance-optimization"/>
+  <id>/homework/4-programming-performance-optimization</id>
   <published>2023-04-17T00:00:00-05:00</published>
   <updated>2023-04-17T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/MMP2023S</uri>
+    <uri></uri>
     <email>bagheri.fateme@gmail.com</email>
   </author>
   
@@ -218,19 +218,19 @@ Don’t forget to push your answers to your remote repository by the end of quiz
 &lt;/ol&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/homework/4-programming-performance-optimization&quot;&gt;Homework 4: Programming: Performance optimization&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 17, 2023.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/homework/4-programming-performance-optimization&quot;&gt;Homework 4: Programming: Performance optimization&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 17, 2023.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Quiz 2: Programming basics]]></title>
-  <link rel="alternate" type="text/html" href="http:/MMP2023S/quiz/2-programming"/>
-  <id>http:/MMP2023S/quiz/2-programming</id>
+  <link rel="alternate" type="text/html" href="/quiz/2-programming"/>
+  <id>/quiz/2-programming</id>
   <published>2023-04-05T00:00:00-05:00</published>
   <updated>2023-04-05T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/MMP2023S</uri>
+    <uri></uri>
     <email>bagheri.fateme@gmail.com</email>
   </author>
   
@@ -241,7 +241,7 @@ This is the solution to [Quiz 1: Problems - Version control system](1-problems-v
 
 The following figure illustrates the grade distribution for this quiz.
 &lt;figure&gt;
-    &lt;img src=&quot;http:/MMP2023S/quiz/gradeDist/gradeHistQuiz1.png&quot; width=&quot;700&quot;&gt;
+    &lt;img src=&quot;/quiz/gradeDist/gradeHistQuiz1.png&quot; width=&quot;700&quot;&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
         Maximum possible points is 1.
     &lt;/figcaption&gt;
@@ -413,20 +413,20 @@ Why are lists unsuitable for numerical storage and fast computation?&lt;/p&gt;
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/quiz/2-programming&quot;&gt;Quiz 2: Programming basics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 05, 2023.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/quiz/2-programming&quot;&gt;Quiz 2: Programming basics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 05, 2023.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Chapter 3: Programming paradigms]]></title>
-  <link rel="alternate" type="text/html" href="http:/MMP2023S/lecture/3-oop"/>
-  <id>http:/MMP2023S/lecture/3-oop</id>
+  <link rel="alternate" type="text/html" href="/lecture/3-oop"/>
+  <id>/lecture/3-oop</id>
   <published>2023-04-01T00:00:00-05:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/MMP2023S</uri>
+    <uri></uri>
     <email>bagheri.fateme@gmail.com</email>
   </author>
   
@@ -447,19 +447,19 @@ Why are lists unsuitable for numerical storage and fast computation?&lt;/p&gt;
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/lecture/3-oop&quot;&gt;Chapter 3: Programming paradigms&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 01, 2023.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/lecture/3-oop&quot;&gt;Chapter 3: Programming paradigms&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 01, 2023.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Homework 3: Programming: Object-Oriented Paradigm]]></title>
-  <link rel="alternate" type="text/html" href="http:/MMP2023S/homework/3-programming-oop"/>
-  <id>http:/MMP2023S/homework/3-programming-oop</id>
+  <link rel="alternate" type="text/html" href="/homework/3-programming-oop"/>
+  <id>/homework/3-programming-oop</id>
   <published>2023-04-01T00:00:00-05:00</published>
   <updated>2023-04-01T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/MMP2023S</uri>
+    <uri></uri>
     <email>bagheri.fateme@gmail.com</email>
   </author>
   
@@ -473,19 +473,19 @@ Why are lists unsuitable for numerical storage and fast computation?&lt;/p&gt;
 &lt;/ol&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/homework/3-programming-oop&quot;&gt;Homework 3: Programming: Object-Oriented Paradigm&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 01, 2023.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/homework/3-programming-oop&quot;&gt;Homework 3: Programming: Object-Oriented Paradigm&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on April 01, 2023.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Homework 2: Programming Basics]]></title>
-  <link rel="alternate" type="text/html" href="http:/MMP2023S/homework/2-programming-basics"/>
-  <id>http:/MMP2023S/homework/2-programming-basics</id>
+  <link rel="alternate" type="text/html" href="/homework/2-programming-basics"/>
+  <id>/homework/2-programming-basics</id>
   <published>2023-02-26T00:00:00-06:00</published>
   <updated>2023-02-26T00:00:00-06:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/MMP2023S</uri>
+    <uri></uri>
     <email>bagheri.fateme@gmail.com</email>
   </author>
   
@@ -518,19 +518,19 @@ Why are lists unsuitable for numerical storage and fast computation?&lt;/p&gt;
 &lt;/ol&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/homework/2-programming-basics&quot;&gt;Homework 2: Programming Basics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on February 26, 2023.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/homework/2-programming-basics&quot;&gt;Homework 2: Programming Basics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on February 26, 2023.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Quiz 1: Version control system]]></title>
-  <link rel="alternate" type="text/html" href="http:/MMP2023S/quiz/1-version-control-system"/>
-  <id>http:/MMP2023S/quiz/1-version-control-system</id>
+  <link rel="alternate" type="text/html" href="/quiz/1-version-control-system"/>
+  <id>/quiz/1-version-control-system</id>
   <published>2023-02-13T00:00:00-06:00</published>
   <updated>2023-02-13T00:00:00-06:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/MMP2023S</uri>
+    <uri></uri>
     <email>bagheri.fateme@gmail.com</email>
   </author>
   
@@ -541,7 +541,7 @@ This is the solution to [Quiz 1: Problems - Version control system](1-problems-v
 
 The following figure illustrates the grade distribution for this quiz.  
 &lt;figure&gt;
-    &lt;img src=&quot;http:/MMP2023S/quiz/gradeDist/gradeHistQuiz1.png&quot; width=&quot;700&quot;&gt;
+    &lt;img src=&quot;/quiz/gradeDist/gradeHistQuiz1.png&quot; width=&quot;700&quot;&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
         Maximum possible points is 1.
     &lt;/figcaption&gt;
@@ -620,20 +620,20 @@ The following figure illustrates the grade distribution for this quiz.
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/quiz/1-version-control-system&quot;&gt;Quiz 1: Version control system&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on February 13, 2023.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/quiz/1-version-control-system&quot;&gt;Quiz 1: Version control system&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on February 13, 2023.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Chapter 2: Computer hardware, software, programming, and history]]></title>
-  <link rel="alternate" type="text/html" href="http:/MMP2023S/lecture/2-history"/>
-  <id>http:/MMP2023S/lecture/2-history</id>
+  <link rel="alternate" type="text/html" href="/lecture/2-history"/>
+  <id>/lecture/2-history</id>
   <published>2023-02-01T00:00:00-06:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/MMP2023S</uri>
+    <uri></uri>
     <email>bagheri.fateme@gmail.com</email>
   </author>
   
@@ -654,20 +654,20 @@ The following figure illustrates the grade distribution for this quiz.
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/lecture/2-history&quot;&gt;Chapter 2: Computer hardware, software, programming, and history&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on February 01, 2023.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/lecture/2-history&quot;&gt;Chapter 2: Computer hardware, software, programming, and history&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on February 01, 2023.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Chapter 1: Version Control Systems, Git, and GitHub]]></title>
-  <link rel="alternate" type="text/html" href="http:/MMP2023S/lecture/1-vcs"/>
-  <id>http:/MMP2023S/lecture/1-vcs</id>
+  <link rel="alternate" type="text/html" href="/lecture/1-vcs"/>
+  <id>/lecture/1-vcs</id>
   <published>2023-01-20T00:00:00-06:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/MMP2023S</uri>
+    <uri></uri>
     <email>bagheri.fateme@gmail.com</email>
   </author>
   
@@ -688,19 +688,19 @@ The following figure illustrates the grade distribution for this quiz.
 &lt;/ul&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/lecture/1-vcs&quot;&gt;Chapter 1: Version Control Systems, Git, and GitHub&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on January 20, 2023.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/lecture/1-vcs&quot;&gt;Chapter 1: Version Control Systems, Git, and GitHub&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on January 20, 2023.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Homework 1: Version Control Using Git and Github]]></title>
-  <link rel="alternate" type="text/html" href="http:/MMP2023S/homework/1-vcs"/>
-  <id>http:/MMP2023S/homework/1-vcs</id>
+  <link rel="alternate" type="text/html" href="/homework/1-vcs"/>
+  <id>/homework/1-vcs</id>
   <published>2023-01-20T00:00:00-06:00</published>
   <updated>2023-01-20T00:00:00-06:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/MMP2023S</uri>
+    <uri></uri>
     <email>bagheri.fateme@gmail.com</email>
   </author>
   
@@ -730,7 +730,7 @@ error: Cannot delete branch &apos;test&apos; checked out at &apos;C:/Users/Fatem
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/MMP2023S/homework/1-vcs&quot;&gt;Homework 1: Version Control Using Git and Github&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/MMP2023S&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on January 20, 2023.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/homework/1-vcs&quot;&gt;Homework 1: Version Control Using Git and Github&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;PHYS-5319 - Mathematical Methods in Physics III - Spring 2023 - MW 10:30-11:45 @ SH 315&lt;/a&gt; on January 20, 2023.&lt;/p&gt;</content>
 </entry>
 
 </feed>
