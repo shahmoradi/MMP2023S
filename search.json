@@ -3,7 +3,7 @@
 		{
 		  "title"      : "Final exam",
 		  "category"   : "",
-		  "url"        : "/exam/1-final-project",
+		  "url"        : "/MMP2023S/exam/1-final-project",
 		  "date"       : "2023-05-03 00:00:00 -0500",
 		  "shortdate"  : "May 03, 2023"
 		} ,
@@ -11,7 +11,7 @@
 		{
 		  "title"      : "Quiz 4: Performance optimization",
 		  "category"   : "",
-		  "url"        : "/quiz/4-performance",
+		  "url"        : "/MMP2023S/quiz/4-performance",
 		  "date"       : "2023-04-24 00:00:00 -0500",
 		  "shortdate"  : "April 24, 2023"
 		} ,
@@ -19,7 +19,7 @@
 		{
 		  "title"      : "Chapter 5: Statistical inference",
 		  "category"   : "",
-		  "url"        : "/lecture/5-statistical-inference",
+		  "url"        : "/MMP2023S/lecture/5-statistical-inference",
 		  "date"       : "2023-04-19 00:00:00 -0500",
 		  "shortdate"  : "April 19, 2023"
 		} ,
@@ -27,7 +27,7 @@
 		{
 		  "title"      : "Quiz 3: Object-Oriented Programming (OOP) basics",
 		  "category"   : "",
-		  "url"        : "/quiz/3-oop",
+		  "url"        : "/MMP2023S/quiz/3-oop",
 		  "date"       : "2023-04-17 00:00:00 -0500",
 		  "shortdate"  : "April 17, 2023"
 		} ,
@@ -35,7 +35,7 @@
 		{
 		  "title"      : "Chapter 4: Performance optimization tips and techniques",
 		  "category"   : "",
-		  "url"        : "/lecture/4-performance-optimization",
+		  "url"        : "/MMP2023S/lecture/4-performance-optimization",
 		  "date"       : "2023-04-17 00:00:00 -0500",
 		  "shortdate"  : "April 17, 2023"
 		} ,
@@ -43,7 +43,7 @@
 		{
 		  "title"      : "Homework 4: Programming: Performance optimization",
 		  "category"   : "",
-		  "url"        : "/homework/4-programming-performance-optimization",
+		  "url"        : "/MMP2023S/homework/4-programming-performance-optimization",
 		  "date"       : "2023-04-17 00:00:00 -0500",
 		  "shortdate"  : "April 17, 2023"
 		} ,
@@ -51,7 +51,7 @@
 		{
 		  "title"      : "Quiz 2: Programming basics",
 		  "category"   : "",
-		  "url"        : "/quiz/2-programming",
+		  "url"        : "/MMP2023S/quiz/2-programming",
 		  "date"       : "2023-04-05 00:00:00 -0500",
 		  "shortdate"  : "April 05, 2023"
 		} ,
@@ -59,7 +59,7 @@
 		{
 		  "title"      : "Chapter 3: Programming paradigms",
 		  "category"   : "",
-		  "url"        : "/lecture/3-oop",
+		  "url"        : "/MMP2023S/lecture/3-oop",
 		  "date"       : "2023-04-01 00:00:00 -0500",
 		  "shortdate"  : "April 01, 2023"
 		} ,
@@ -67,7 +67,7 @@
 		{
 		  "title"      : "Homework 3: Programming: Object-Oriented Paradigm",
 		  "category"   : "",
-		  "url"        : "/homework/3-programming-oop",
+		  "url"        : "/MMP2023S/homework/3-programming-oop",
 		  "date"       : "2023-04-01 00:00:00 -0500",
 		  "shortdate"  : "April 01, 2023"
 		} ,
@@ -75,7 +75,7 @@
 		{
 		  "title"      : "Homework 2: Programming Basics",
 		  "category"   : "",
-		  "url"        : "/homework/2-programming-basics",
+		  "url"        : "/MMP2023S/homework/2-programming-basics",
 		  "date"       : "2023-02-26 00:00:00 -0600",
 		  "shortdate"  : "February 26, 2023"
 		} ,
@@ -83,7 +83,7 @@
 		{
 		  "title"      : "Quiz 1: Version control system",
 		  "category"   : "",
-		  "url"        : "/quiz/1-version-control-system",
+		  "url"        : "/MMP2023S/quiz/1-version-control-system",
 		  "date"       : "2023-02-13 00:00:00 -0600",
 		  "shortdate"  : "February 13, 2023"
 		} ,
@@ -91,7 +91,7 @@
 		{
 		  "title"      : "Chapter 2: Computer hardware, software, programming, and history",
 		  "category"   : "",
-		  "url"        : "/lecture/2-history",
+		  "url"        : "/MMP2023S/lecture/2-history",
 		  "date"       : "2023-02-01 00:00:00 -0600",
 		  "shortdate"  : "February 01, 2023"
 		} ,
@@ -99,7 +99,7 @@
 		{
 		  "title"      : "Chapter 1: Version Control Systems, Git, and GitHub",
 		  "category"   : "",
-		  "url"        : "/lecture/1-vcs",
+		  "url"        : "/MMP2023S/lecture/1-vcs",
 		  "date"       : "2023-01-20 00:00:00 -0600",
 		  "shortdate"  : "January 20, 2023"
 		} ,
@@ -107,7 +107,7 @@
 		{
 		  "title"      : "Homework 1: Version Control Using Git and Github",
 		  "category"   : "",
-		  "url"        : "/homework/1-vcs",
+		  "url"        : "/MMP2023S/homework/1-vcs",
 		  "date"       : "2023-01-20 00:00:00 -0600",
 		  "shortdate"  : "January 20, 2023"
 		} 

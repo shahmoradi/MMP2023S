@@ -1,106 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc></loc>
+        <loc>/MMP2023S</loc>
     </url>
     
     
     <url>
-        <loc>/404</loc>
+        <loc>/MMP2023S/404</loc>
     </url>
     
     <url>
-        <loc>/about/index.html</loc>
+        <loc>/MMP2023S/about/index.html</loc>
     </url>
     
     <url>
-        <loc>/categories/index.html</loc>
+        <loc>/MMP2023S/categories/index.html</loc>
     </url>
     
     <url>
-        <loc>/feed.xml</loc>
+        <loc>/MMP2023S/feed.xml</loc>
     </url>
     
     <url>
-        <loc>/highlights/</loc>
+        <loc>/MMP2023S/highlights/</loc>
     </url>
     
     <url>
-        <loc>/</loc>
+        <loc>/MMP2023S/</loc>
     </url>
     
     <url>
-        <loc>/links.jsonp</loc>
+        <loc>/MMP2023S/links.jsonp</loc>
     </url>
     
     <url>
-        <loc>/search.json</loc>
+        <loc>/MMP2023S/search.json</loc>
     </url>
     
     <url>
-        <loc>/sitemap.xml</loc>
+        <loc>/MMP2023S/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>/tags/index.html</loc>
+        <loc>/MMP2023S/tags/index.html</loc>
     </url>
     
 
     
     <url>
-        <loc>/exam/1-final-project</loc>
+        <loc>/MMP2023S/exam/1-final-project</loc>
     </url>
     
     <url>
-        <loc>/quiz/4-performance</loc>
+        <loc>/MMP2023S/quiz/4-performance</loc>
     </url>
     
     <url>
-        <loc>/lecture/5-statistical-inference</loc>
+        <loc>/MMP2023S/lecture/5-statistical-inference</loc>
     </url>
     
     <url>
-        <loc>/quiz/3-oop</loc>
+        <loc>/MMP2023S/quiz/3-oop</loc>
     </url>
     
     <url>
-        <loc>/lecture/4-performance-optimization</loc>
+        <loc>/MMP2023S/lecture/4-performance-optimization</loc>
     </url>
     
     <url>
-        <loc>/homework/4-programming-performance-optimization</loc>
+        <loc>/MMP2023S/homework/4-programming-performance-optimization</loc>
     </url>
     
     <url>
-        <loc>/quiz/2-programming</loc>
+        <loc>/MMP2023S/quiz/2-programming</loc>
     </url>
     
     <url>
-        <loc>/lecture/3-oop</loc>
+        <loc>/MMP2023S/lecture/3-oop</loc>
     </url>
     
     <url>
-        <loc>/homework/3-programming-oop</loc>
+        <loc>/MMP2023S/homework/3-programming-oop</loc>
     </url>
     
     <url>
-        <loc>/homework/2-programming-basics</loc>
+        <loc>/MMP2023S/homework/2-programming-basics</loc>
     </url>
     
     <url>
-        <loc>/quiz/1-version-control-system</loc>
+        <loc>/MMP2023S/quiz/1-version-control-system</loc>
     </url>
     
     <url>
-        <loc>/lecture/2-history</loc>
+        <loc>/MMP2023S/lecture/2-history</loc>
     </url>
     
     <url>
-        <loc>/lecture/1-vcs</loc>
+        <loc>/MMP2023S/lecture/1-vcs</loc>
     </url>
     
     <url>
-        <loc>/homework/1-vcs</loc>
+        <loc>/MMP2023S/homework/1-vcs</loc>
     </url>
     
 </urlset>

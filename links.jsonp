@@ -3,72 +3,72 @@ callback([
 
   {
     "text": "Quiz 4: Performance optimization",
-    "href": "/quiz/4-performance"
+    "href": "/MMP2023S/quiz/4-performance"
   } ,
 
   {
     "text": "Quiz 3: Object-Oriented Programming (OOP) basics",
-    "href": "/quiz/3-oop"
+    "href": "/MMP2023S/quiz/3-oop"
   } ,
 
   {
     "text": "Quiz 2: Programming basics",
-    "href": "/quiz/2-programming"
+    "href": "/MMP2023S/quiz/2-programming"
   } ,
 
   {
     "text": "Quiz 1: Version control system",
-    "href": "/quiz/1-version-control-system"
+    "href": "/MMP2023S/quiz/1-version-control-system"
   } ,
 
   {
     "text": "Homework 4: Programming: Performance optimization",
-    "href": "/homework/4-programming-performance-optimization"
+    "href": "/MMP2023S/homework/4-programming-performance-optimization"
   } ,
 
   {
     "text": "Homework 3: Programming: Object-Oriented Paradigm",
-    "href": "/homework/3-programming-oop"
+    "href": "/MMP2023S/homework/3-programming-oop"
   } ,
 
   {
     "text": "Homework 2: Programming Basics",
-    "href": "/homework/2-programming-basics"
+    "href": "/MMP2023S/homework/2-programming-basics"
   } ,
 
   {
     "text": "Homework 1: Version Control Using Git and Github",
-    "href": "/homework/1-vcs"
+    "href": "/MMP2023S/homework/1-vcs"
   } ,
 
   {
     "text": "Final exam",
-    "href": "/exam/1-final-project"
+    "href": "/MMP2023S/exam/1-final-project"
   } ,
 
   {
     "text": "Chapter 5: Statistical inference",
-    "href": "/lecture/5-statistical-inference"
+    "href": "/MMP2023S/lecture/5-statistical-inference"
   } ,
 
   {
     "text": "Chapter 4: Performance optimization tips and techniques",
-    "href": "/lecture/4-performance-optimization"
+    "href": "/MMP2023S/lecture/4-performance-optimization"
   } ,
 
   {
     "text": "Chapter 3: Programming paradigms",
-    "href": "/lecture/3-oop"
+    "href": "/MMP2023S/lecture/3-oop"
   } ,
 
   {
     "text": "Chapter 2: Computer hardware, software, programming, and history",
-    "href": "/lecture/2-history"
+    "href": "/MMP2023S/lecture/2-history"
   } ,
 
   {
     "text": "Chapter 1: Version Control Systems, Git, and GitHub",
-    "href": "/lecture/1-vcs"
+    "href": "/MMP2023S/lecture/1-vcs"
   } 
 
 ])
